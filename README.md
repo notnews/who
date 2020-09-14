@@ -1,6 +1,9 @@
 ### Who is covered on the news?
 
-We merge the [Stanford Cable TV News Analyzer Data](https://tvnews.stanford.edu/) with the [Voteview Data](https://voteview.com/) and [DIME data](https://data.stanford.edu/dime) to estimate the extremity of the politicians covered online. We have four hypotheses:
+We merge the [Stanford Cable TV News Analyzer Data](https://tvnews.stanford.edu/) with the [Voteview Data](https://voteview.com/) and [DIME data](https://data.stanford.edu/dime) to estimate the extremity of the politicians covered on cable news.
+
+
+We have four hypotheses:
 
 1. We hypothesize a sharp skew in the coverage with the president and a few other prominent national politicians hogging most of the coverage
 2. We hypothesize that executives are covered more than the legislative or the judicial branch
