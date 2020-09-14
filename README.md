@@ -16,13 +16,13 @@ When merging the data, we take the most recent ideology scores even though the p
 
 ### Scripts
 
-* [Merge archive.org with voteview and DIME data](scripts/merge.R)
-* [Figure 1: Dotplot of top 50 politicians](scripts/fig1_top50.R)
-* [Figure 2: Dotplot of executive coverage vs. rest](scripts/fig2_executive_rest.R)
-* [Figure 3a: Density plot of ideology weighted by coverage using Voteview](scripts/fig3_density_plot_voteview.R)
-* [Figure 3b: Density plot of ideology weighted by coverage using DIME](scripts/fig3_density_plot_dime.R)
-* [Figure 4a: Density plot of ideology weighted by coverage using Voteview by Channel](scripts/fig4_density_plot_voteview_channel.R)
-* [Figure 4b: Density plot of ideology weighted by coverage using DIME by Channel](scripts/fig4_density_plot_dime_channel.R)
+* [Merge archive.org with voteview and DIME data](scripts/01_merge.R)
+* [Figure 1: Dotplot of top 50 politicians](scripts/02_fig1_top50.R)
+* [Figure 2: Dotplot of executive coverage vs. rest](scripts/03_fig2_executive_rest.R)
+* [Figure 3a: Density plot of ideology weighted by coverage using Voteview](scripts/04_fig3_density_plot_voteview.R)
+* [Figure 3b: Density plot of ideology weighted by coverage using DIME](scripts/05_fig3_density_plot_dime.R)
+* [Figure 4a: Density plot of ideology weighted by coverage using Voteview by Channel](scripts/06_fig4_density_plot_voteview_channel.R)
+* [Figure 4b: Density plot of ideology weighted by coverage using DIME by Channel](scripts/07_fig4_density_plot_dime_channel.R)
 
 ### Authors
 
