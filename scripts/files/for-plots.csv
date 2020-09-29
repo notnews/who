@@ -1,0 +1,1226 @@
+contributor.cfscore,cycle,district,dwnom1,icpsr,dime_name,party,recipient.cfscore,seat,state,congress,chamber,vv_name,nominate_dim1,nominate_log_likelihood,nominate_geo_mean_probability,nokken_poole_dim1,sctv_name,minutes
+,1982.0,CA27,,H2CA27065,"prager, dennis",D,-0.752,federal:house,CA,,,,,,,,dennis prager,870
+,1984.0,NY08,,H2NY08013,"schoen, douglas",D,-0.35600000000000004,federal:house,NY,,,,,,,,douglas schoen,"5,962"
+,1986.0,TX08,,H4TX08014,"hill, marc",D,-0.10400000000000001,federal:house,TX,,,,,,,,marc lamont hill,"4,679"
+,1986.0,NY06,,H6NY06083,"dietl, richard a",R,0.654,federal:house,NY,,,,,,,,bo dietl,"1,261"
+,1986.0,NHS80,,S0NH00045,"sununu, john h",R,0.708,federal:senate,NH,,,,,,,,john h sununu,"2,191"
+,1986.0,CAS86,,S6CA00121,"laffer, arthur b",R,0.823,federal:senate,CA,,,,,,,,arthur laffer,"1,194"
+0.853,1988.0,PRES,0.6890000000000001,99907,"reagan, ronald",R,0.9840000000000001,federal:president,00,100.0,President,"REAGAN, Ronald Wilson",0.6920000000000001,-78.78681999999999,0.7709999999999999,,ronald reagan,"3,155"
+,1990.0,PRES,-0.504,99906,"carter, jimmy",D,-0.318,federal:president,00,96.0,President,"CARTER, James Earl, Jr.",-0.504,-162.52078,0.72,,jimmy carter,"1,555"
+0.9359999999999999,1992.0,ID-24,,ID137735,"peters, ralph b",R,0.764,state:upper,ID,,,,,,,,ralph peters,"3,532"
+,1992.0,CAS88,,S8CA00051,"press, bill",D,-1.005,federal:senate,CA,,,,,,,,bill press,"1,830"
+,1994.0,CA17,-0.261,14444,"panetta, leon e",D,-0.40299999999999997,federal:house,CA,103.0,House,"PANETTA, Leon Edward",-0.258,-215.90963,0.755,-0.76,leon panetta,"3,692"
+,1996.0,INS80,-0.408,10800,"bayh, birch e. jr.",D,-0.609,federal:senate,IN,96.0,Senate,"BAYH, Birch Evans",-0.408,-248.95763,0.7040000000000001,-0.368,evan bayh,969
+,1996.0,MES96,0.095,14010,"cohen, william s.",R,0.203,federal:senate,ME,104.0,Senate,"COHEN, William Sebastian",0.1,-297.22213,0.6859999999999999,0.04,william cohen,"1,190"
+1.054,1996.0,WY01,0.527,14611,"cheney, richard bruce",R,0.765,federal:house,WY,101.0,House,"CHENEY, Richard Bruce",0.523,-195.6798,0.741,0.46,dick cheney,"2,181"
+1.171,1996.0,WYS96,0.321,14710,"simpson, alan kooi",R,0.625,federal:senate,WY,104.0,Senate,"SIMPSON, Alan Kooi",0.322,-215.82002000000003,0.758,0.215,alan k simpson,787
+,1996.0,CA49,,H6CA49029,"navarro, peter",D,-0.9309999999999999,federal:house,CA,,,,,,,,peter navarro,"1,852"
+,1996.0,TN-32,,TN114074,"hurt, charles g",R,0.47600000000000003,state:upper,TN,,,,,,,,charles hurt,"5,334"
+,1998.0,VA10,,H8VA10049,"brooks, cornell william",D,-1.127,federal:house,VA,,,,,,,,cornell william brooks,739
+,1998.0,VAS94,,S4VA00056,"north, oliver laurence",R,1.17,federal:senate,VA,,,,,,,,oliver north,"2,530"
+0.693,2000.0,,0.188,15056,"ridge, tom",R,0.32299999999999995,state:governor,PA,103.0,House,"RIDGE, Thomas Joseph",0.18600000000000003,-267.27693999999997,0.718,0.207,tom ridge,965
+-0.218,2000.0,AZ-9,,AZ25859,"welch, matt",D,-0.20199999999999999,state:upper,AZ,,,,,,,,matt welch,"1,480"
+,2000.0,LA02,,H0LA02044,"morial, marc h",D,-0.245,federal:house,LA,,,,,,,,marc morial,"1,736"
+0.297,2000.0,MT-25,,MT77682,"kirby, john",R,0.532,state:lower,MT,,,,,,,,john kirby,"4,148"
+,2000.0,PRES,,P40001018,"jackson, jesse l",,-0.924,federal:president,00,,,,,,,,jesse jackson,"1,520"
+0.863,2000.0,PRES,,P60003852,"forbes, steve",R,0.848,federal:president,00,,,,,,,,steve forbes,"1,806"
+,2000.0,NJS00,,S0NJ00019,"whitman, christine todd",R,0.391,federal:senate,NJ,,,,,,,,christine todd whitman,605
+,2000.0,MAS96,,S6MA00171,"weld, william f",R,0.315,federal:senate,MA,,,,,,,,william f weld,"1,148"
+-0.826,2002.0,PRES,-0.32,14423,"gore, albert jr",D,-0.795,federal:president,00,102.0,Senate,"GORE, Albert Arnold, Jr.",-0.316,-105.70228,0.75,-0.34,al gore,"1,383"
+0.8909999999999999,2002.0,,,FL3310,"bush, jeb & brogan, frank t",R,0.774,state:governor,FL,,,,,,,,jeb bush,"9,244"
+-0.99,2002.0,,,MA137920,"reich, robert (g)",D,-1.403,state:governor,MA,,,,,,,,robert reich,"3,430"
+,2002.0,,,MN70456,"ventura, jesse",I,0.5539999999999999,state:governor,MN,,,,,,,,jesse ventura,942
+-1.232,2002.0,MT-15,,MT14483,"greenfield, jeff",D,-1.334,state:lower,MT,,,,,,,,jeff greenfield,633
+,2002.0,MTS00,,S8MT00135,"schweitzer, brian david",D,-1.0090000000000001,federal:senate,MT,,,,,,,,brian schweitzer,699
+1.736,2002.0,WY-28,,WY11386,"baker, mike",R,1.069,state:lower,WY,,,,,,,,mike baker,"3,647"
+,2004.0,PRES,0.561,99908,"bush, george",R,0.7909999999999999,federal:president,00,102.0,President,"BUSH, George Herbert Walker",0.557,-68.02494,0.765,0.223,george h w bush,"2,484"
+,2004.0,CA-3,,CA_CP1000686,"brown, willie l",D,-0.754,state:upper,CA,,,,,,,,willie brown,756
+0.9490000000000001,2004.0,,,NY3737,"pataki, george e (g)",R,0.172,state:governor,NY,,,,,,,,george pataki,"1,298"
+,2004.0,PRES,,P40002214,"dean, howard",D,-1.473,federal:president,00,,,,,,,,howard dean,"5,534"
+,2004.0,MOS98,,S8MO00012,"nixon, jeremiah w (jay)",D,-0.763,federal:senate,MO,,,,,,,,jay nixon,783
+1.247,2004.0,WI-22,,WI128222,"priebus, reince",R,1.113,state:upper,WI,,,,,,,,reince priebus,"7,130"
+1.013,2006.0,,0.365,29704,"hutchinson, asa",R,1.05,state:governor,AR,107.0,House,"HUTCHINSON, Asa",0.358,-28.71661,0.857,0.371,asa hutchinson,863
+-0.778,2006.0,,,AZ4,"napolitano, janet",D,-0.6579999999999999,state:governor,AZ,,,,,,,,janet napolitano,"1,335"
+,2006.0,CA-22,,CA20319,"villaraigosa, antonio r",I,-0.852,state:upper,CA,,,,,,,,antonio villaraigosa,970
+,2006.0,,,CA27542,"huffington, arianna",,-1.213,state:other,CA,,,,,,,,arianna huffington,"1,131"
+1.232,2006.0,,,GA38441,"reed, ralph",R,1.212,state:governor,GA,,,,,,,,ralph reed,910
+1.463,2006.0,,,H4OH01026,"blackwell, j kenneth & raga, thomas",R,0.956,state:governor,OH,,,,,,,,ken blackwell,649
+,2006.0,,,MD60913,"perez, tom",D,-1.206,state:office,MD,,,,,,,,tom perez,"2,452"
+,2006.0,,,NY19490,"spitzer, eliot l (g)",D,-0.7490000000000001,state:governor,NY,,,,,,,,eliot spitzer,"4,736"
+,2006.0,,,VT122740,"wolffe, bob",R,1.986,state:lower,VT,,,,,,,,richard wolffe,"4,269"
+,2008.0,IL05,-0.374,20323,"emanuel, rahm israel",D,-0.745,federal:house,IL,110.0,House,"EMANUEL, Rahm",-0.37200000000000005,-75.97211999999999,0.945,-0.358,rahm emanuel,"2,070"
+,2008.0,IL18,0.25,29517,"lahood, ray",R,0.611,federal:house,IL,110.0,House,"LaHOOD, Ray H.",0.24600000000000002,-360.75535,0.731,0.22399999999999998,ray lahood,611
+-0.605,2008.0,,-0.319,29716,"blagojevich, rod r (g)",D,-0.7659999999999999,state:governor,IL,107.0,House,"BLAGOJEVICH, Rod R.",-0.317,-136.59041000000002,0.7829999999999999,-0.305,rod blagojevich,"1,036"
+1.131,2008.0,TNS06,-0.358,29756,"ford, harold e jr",D,-0.5489999999999999,federal:senate,TN,109.0,House,"FORD, Harold, Jr.",-0.359,-265.77201,0.71,-0.315,harold ford jr,"2,898"
+,2008.0,NES08,0.342,49704,"hagel, charles t",R,0.735,federal:senate,NE,110.0,Senate,"HAGEL, Charles Timothy (Chuck)",0.344,-253.94082000000003,0.607,0.308,chuck hagel,"2,661"
+0.7559999999999999,2008.0,PRES,-0.294,49902,"edwards, john",D,-1.078,federal:president,00,108.0,Senate,"EDWARDS, John",-0.29100000000000004,-38.029990000000005,0.879,-0.36200000000000004,john edwards,"1,061"
+,2008.0,,,C00431528,committee to draft michael bloomberg,,0.19699999999999998,federal:committee,DC,,,,,,,,michael bloomberg,"4,845"
+0.758,2008.0,FL-67,,FL7502,"reagan, ron",R,0.623,state:lower,FL,,,,,,,,ron reagan,"1,998"
+-0.823,2008.0,,,MI14435,"granholm, jennifer m (g)",D,-0.868,state:governor,MI,,,,,,,,jennifer granholm,"3,077"
+1.239,2008.0,PRES,,P80000805,"buchanan, patrick j",I,1.265,federal:president,00,,,,,,,,pat buchanan,"4,798"
+,2008.0,,,PA6810,"rendell, ed",D,-0.43799999999999994,state:governor,PA,,,,,,,,ed rendell,"5,952"
+0.7859999999999999,2010.0,NHS10,0.429,14826,"gregg, judd alan",,0.585,federal:senate,NH,111.0,Senate,"GREGG, Judd Alan",0.429,-149.54081000000002,0.7609999999999999,0.344,judd gregg,739
+-0.478,2010.0,CTS12,-0.212,15704,"lieberman, joseph i",,-0.483,federal:senate,CT,112.0,Senate,"LIEBERMAN, Joseph I.",-0.205,-95.42711,0.7859999999999999,-0.153,joe lieberman,"2,325"
+-0.9840000000000001,2010.0,CA36,-0.263,29318,"harman, jane",,-0.812,federal:house,CA,112.0,House,"HARMAN, Jane L.",-0.262,-22.52676,0.767,-0.32899999999999996,jane harman,"1,602"
+0.57,2010.0,NY-58,0.20199999999999999,29381,"quinn, jack",R,0.207,state:upper,NY,108.0,House,"QUINN, John Francis (Jack)",0.198,-108.38304,0.855,0.23199999999999998,jack quinn,"1,165"
+1.073,2010.0,OKS10,0.7959999999999999,29555,"coburn, thomas a",,1.1540000000000001,federal:senate,OK,113.0,Senate,"COBURN, Thomas Allen",0.782,-98.18576,0.8009999999999999,0.7859999999999999,tom coburn,"2,068"
+1.003,2010.0,,,AZ12022,"brewer, jan",R,0.748,state:governor,AZ,,,,,,,,jan brewer,"2,025"
+,2010.0,,,FL143730,"bondi, pam",R,0.6729999999999999,state:office,FL,,,,,,,,pam bondi,"1,621"
+,2010.0,,,IN5032,"daniels, mitch (g)",R,1.0859999999999999,state:governor,IN,,,,,,,,mitch daniels,"1,108"
+,2010.0,,,LA16100,"landrieu, mitch",D,-0.054000000000000006,state:governor,LA,,,,,,,,mitch landrieu,"1,215"
+0.484,2010.0,,,NJ90695,"christie, chris & guadagno, kim",R,0.54,state:governor,NJ,,,,,,,,chris christie,"15,179"
+,2010.0,PRES,,P40002792,"clark, wesley k",D,-1.207,federal:president,00,,,,,,,,wesley clark,"1,513"
+,2010.0,,,P80005291,"barbour, haley",R,1.117,state:governor,MS,,,,,,,,haley barbour,"3,695"
+1.0979999999999999,2010.0,PRES,,S2AR00032,"huckabee, mike",R,1.133,federal:president,00,,,,,,,,mike huckabee,"31,217"
+,2010.0,MDS06,,S6MD03201,"steele, michael",R,0.9359999999999999,federal:senate,MD,,,,,,,,michael steele,"14,778"
+,2010.0,,,VA120807,"mcauliffe, terry",D,-0.9009999999999999,state:governor,VA,,,,,,,,terry mcauliffe,"1,679"
+-0.163,2012.0,PRES,-0.318,14101,"biden, joseph r jr",,-0.755,federal:president,00,111.0,Senate,"BIDEN, Joseph Robinette, Jr.",-0.314,-37.644020000000005,0.9059999999999999,-0.741,joe biden,"34,132"
+,2012.0,CTS10,-0.335,14213,"dodd, christopher j",,-0.56,federal:senate,CT,111.0,Senate,"DODD, Christopher John",-0.32799999999999996,-50.73445,0.919,-0.36700000000000005,chris dodd,721
+,2012.0,PRES,0.94,14290,"paul, ron",,1.5830000000000002,federal:president,00,112.0,House,"PAUL, Ronald Ernest",0.863,-441.01564,0.628,0.648,ron paul,"5,652"
+,2012.0,MA04,-0.509,14824,"frank, barney",,-0.8959999999999999,federal:house,MA,112.0,House,"FRANK, Barney",-0.499,-224.92067000000003,0.85,-0.40700000000000003,barney frank,"2,987"
+0.758,2012.0,,0.317,15030,"kasich, john & taylor, mary",R,0.963,state:governor,OH,106.0,House,"KASICH, John Richard",0.314,-241.17526,0.7290000000000001,0.531,john kasich,"11,043"
+1.1520000000000001,2012.0,AZS12,0.552,15429,"kyl, jon l",,0.9420000000000001,federal:senate,AZ,115.0,Senate,"KYL, Jon Llewellyn",0.5479999999999999,-8.46959,0.87605,0.586,jon kyl,"1,192"
+1.261,2012.0,,0.665,20117,"pence, mike (g)",R,1.212,state:governor,IN,112.0,House,"PENCE, Mike",0.655,-125.08277,0.9109999999999999,0.621,mike pence,"22,085"
+0.877,2012.0,,0.39799999999999996,20512,"jindal, bobby",R,0.955,state:governor,LA,110.0,House,"JINDAL, Bobby",0.38799999999999996,-254.7795,0.6679999999999999,0.369,bobby jindal,"2,486"
+1.137,2012.0,IL08,0.716,21126,"walsh, joe",,1.06,federal:house,IL,112.0,House,"WALSH, Joe",0.708,-246.91471,0.8370000000000001,0.74,joe walsh,"1,151"
+,2012.0,ARS10,-0.16899999999999998,29305,"lincoln, blanche lambert",,-0.40299999999999997,federal:senate,AR,111.0,Senate,"LINCOLN, Blanche Lambert",-0.166,-164.80066000000002,0.757,-0.11199999999999999,blanche lincoln,630
+,2012.0,,-0.33299999999999996,29937,"inslee, jay r",D,-1.301,state:governor,WA,112.0,House,"INSLEE, Jay Robert",-0.33,-207.12559,0.804,-0.29100000000000004,jay inslee,"1,230"
+,2012.0,VAS12,-0.17300000000000001,40706,"webb, james h jr",,-1.176,federal:senate,VA,112.0,Senate,"WEBB, James H. (Jim)",-0.16899999999999998,-100.69256999999999,0.773,-0.163,jim webb,736
+,2012.0,PRES,0.402,49503,"thompson, fred dalton",,1.109,federal:president,00,107.0,Senate,"THOMPSON, Fred Dalton",0.40299999999999997,-100.02664,0.8,0.384,fred thompson,"2,597"
+0.013000000000000001,2012.0,,-0.006,49905,"chafee, lincoln d",I,-0.037000000000000005,state:governor,RI,109.0,Senate,"CHAFEE, Lincoln Davenport",0.003,-150.05361000000002,0.745,-0.006,lincoln chafee,650
+1.038,2012.0,PRES,0.71,99910,"bush, george w",,0.96,federal:president,00,110.0,President,"BUSH, George Walker",0.693,-84.27028,0.7609999999999999,,george w bush,"6,486"
+1.149,2012.0,,,AL137252,"moore, roy",R,1.258,state:judicial,AL,,,,,,,,roy moore,"1,305"
+0.556,2012.0,,,CA4450,"schwarzenegger, arnold",R,0.586,state:governor,CA,,,,,,,,arnold schwarzenegger,"1,148"
+,2012.0,AZ02,,H2AZ08086,"konst, nomiki",,-1.308,federal:house,AZ,,,,,,,,nomiki konst,"1,232"
+-0.515,2012.0,OH-25,,H2OH11151,"turner, nina",D,-0.45799999999999996,state:upper,OH,,,,,,,,nina turner,"2,309"
+1.246,2012.0,,,H4KS03105,"kobach, kris",R,1.287,state:office,KS,,,,,,,,kris kobach,"1,200"
+,2012.0,KY-95,,KY19712,"stumbo, gregory d",D,-0.091,state:lower,KY,,,,,,,,greg stumbo,604
+-1.0590000000000002,2012.0,,,MA17948,"patrick, deval l (g)",D,-1.218,state:governor,MA,,,,,,,,deval patrick,"1,620"
+-1.205,2012.0,,,MD17771,"omalley, martin (g)",D,-0.915,state:governor,MD,,,,,,,,martin omalley,"1,958"
+-1.176,2012.0,MD-20,,MD8445,"raskin, jamie",D,-1.3780000000000001,state:upper,MD,,,,,,,,jamie raskin,"1,407"
+0.945,2012.0,,,MI139374,"snyder, rick (ltg)",R,0.718,state:governor,MI,,,,,,,,rick snyder,965
+-0.55,2012.0,MI-23,,MI20684,"whitmer, gretchen",D,-0.49200000000000005,state:upper,MI,,,,,,,,gretchen whitmer,863
+-0.879,2012.0,MT-78,,MT78059,"gibson, steve",R,1.025,state:lower,MT,,,,,,,,steve gibson,723
+,2012.0,,,NC80941,"mccrory, pat",R,0.8540000000000001,state:governor,NC,,,,,,,,pat mccrory,692
+-1.004,2012.0,,,NY13066,"cuomo, andrew (g)",D,-0.738,state:governor,NY,,,,,,,,andrew cuomo,"11,429"
+1.284,2012.0,,,OK3798,"pruitt, scott",R,0.925,state:office,OK,,,,,,,,scott pruitt,"1,672"
+,2012.0,PRES,,P20002556,"pawlenty, timothy",,1.0170000000000001,federal:president,00,,,,,,,,tim pawlenty,"2,667"
+1.0390000000000001,2012.0,CAS10,,S0CA00330,"fiorina, carly",,1.053,federal:senate,CA,,,,,,,,carly fiorina,"4,663"
+,2012.0,SC-98,,SC142654,"murphy, chris",R,0.948,state:lower,SC,,,,,,,,chris murphy,"4,389"
+1.121,2012.0,,,SC6845,"haley, nikki",R,1.008,state:governor,SC,,,,,,,,nikki haley,"3,035"
+,2012.0,SC-90,,SC7837,"sellers, bakari t",D,-0.40299999999999997,state:lower,SC,,,,,,,,bakari sellers,"5,368"
+1.087,2012.0,,,VA16891,"mcdonnell, robert f (bob)",R,0.975,state:governor,VA,,,,,,,,bob mcdonnell,"2,418"
+1.319,2012.0,,,VA7162,"cuccinelli ii, kenneth t",R,1.214,state:office,VA,,,,,,,,ken cuccinelli,"3,908"
+-1.546,2012.0,WI-14,,WI9905,"clark, fred",D,-1.679,state:upper,WI,,,,,,,,fred clark,"1,571"
+-0.439,2014.0,MAS14,-0.501,14435,"markey, edward john",,-0.976,federal:senate,MA,116.0,Senate,"MARKEY, Edward John",-0.511,-59.429719999999996,0.88051,-0.614,ed markey,"2,035"
+1.229,2014.0,PRES,0.38,14627,"gingrich, newt",,1.1440000000000001,federal:president,00,105.0,House,"GINGRICH, Newton Leroy",0.377,-12.388160000000001,0.905,0.501,newt gingrich,"23,840"
+-1.079,2014.0,MAS14,-0.359,14920,"kerry, john f",,-0.9259999999999999,federal:senate,MA,113.0,Senate,"KERRY, John Forbes",-0.35200000000000004,-41.34711,0.899,-0.17800000000000002,john kerry,"8,364"
+0.912,2014.0,KYS14,0.406,14921,"mcconnell, mitch",,0.7070000000000001,federal:senate,KY,116.0,Senate,"McCONNELL, Addison Mitchell (Mitch)",0.402,-50.36518,0.9106299999999999,0.312,mitch mcconnell,"12,338"
+0.032,2014.0,OKS14,0.555,15424,"inhofe, james m",,0.9620000000000001,federal:senate,OK,116.0,Senate,"INHOFE, James Mountain",0.556,-42.03629,0.92305,0.6459999999999999,jim inhofe,"1,010"
+,2014.0,VA07,0.532,20144,"cantor, eric ivan",,0.579,federal:house,VA,113.0,House,"CANTOR, Eric",0.518,-106.43993999999999,0.888,0.42700000000000005,eric cantor,"4,136"
+0.9420000000000001,2014.0,WVS14,0.256,20146,"capito, shelley moore",,0.728,federal:senate,WV,116.0,Senate,"CAPITO, Shelley Moore",0.263,-25.6488,0.95232,0.317,shelley moore capito,682
+,2014.0,MN06,0.594,20728,"bachmann, michele",,1.4169999999999998,federal:house,MN,113.0,House,"BACHMANN, Michele",0.584,-156.06765,0.848,0.581,michele bachmann,"8,456"
+0.614,2014.0,LA06,0.447,20919,"cassidy, william",,1.0859999999999999,federal:house,LA,116.0,Senate,"CASSIDY, Bill",0.457,-45.57135,0.91289,0.529,bill cassidy,"1,569"
+1.176,2014.0,COS14,0.473,21112,"gardner, cory",,1.145,federal:senate,CO,116.0,Senate,"GARDNER, Cory",0.44299999999999995,-42.50412,0.92265,0.33399999999999996,cory gardner,"1,359"
+,2014.0,FL18,0.46,21119,"west, allen b mr.",,1.287,federal:house,FL,112.0,House,"WEST, Allen",0.451,-249.34458999999998,0.84,0.452,allen west,"4,225"
+1.074,2014.0,ARS14,0.622,21301,"cotton, thomas",,1.161,federal:senate,AR,116.0,Senate,"COTTON, Tom",0.57,-56.14124,0.9002,0.428,tom cotton,"2,831"
+1.031,2014.0,PRES,0.33899999999999997,29141,"santorum, richard j.",,0.925,federal:president,00,109.0,Senate,"SANTORUM, Richard John (Rick)",0.33799999999999997,-110.72166000000001,0.802,0.348,rick santorum,"16,401"
+-1.04,2014.0,RIS14,-0.39,29142,"reed, jack",,-0.745,federal:senate,RI,116.0,Senate,"REED, John F. (Jack)",-0.37,-96.26076,0.8356100000000001,-0.325,jack reed,"1,235"
+1.295,2014.0,GA01,0.545,29338,"kingston, john h (jack)",,1.063,federal:house,GA,113.0,House,"KINGSTON, Jack",0.54,-130.70729,0.8640000000000001,0.69,jack kingston,"3,950"
+1.0759999999999998,2014.0,MIS12,0.525,29361,"hoekstra, peter",,1.242,federal:senate,MI,111.0,House,"HOEKSTRA, Peter",0.516,-153.45636000000002,0.821,0.5539999999999999,pete hoekstra,882
+,2014.0,GAS14,0.42700000000000005,29512,"chambliss, saxby",,1.054,federal:senate,GA,113.0,Senate,"CHAMBLISS, Saxby",0.423,-135.34325,0.753,0.34299999999999997,saxby chambliss,"1,086"
+0.9940000000000001,2014.0,NCS16,0.45899999999999996,29548,"burr, richard",,0.8809999999999999,federal:senate,NC,116.0,Senate,"BURR, Richard M.",0.45,-24.31203,0.9492700000000001,0.337,richard burr,"1,373"
+,2014.0,SCS14,0.41700000000000004,29566,"graham, lindsey",,0.6679999999999999,federal:senate,SC,116.0,Senate,"GRAHAM, Lindsey O.",0.406,-28.12844,0.94725,0.324,lindsey graham,"15,358"
+-0.585,2014.0,PRES,-0.593,29748,"kucinich, dennis j",,-1.416,federal:president,00,112.0,House,"KUCINICH, Dennis",-0.5820000000000001,-333.82678,0.782,-0.79,dennis kucinich,"2,261"
+,2014.0,CA36,0.361,29775,"bono, mary",,0.6679999999999999,federal:house,CA,112.0,House,"BONO, Mary",0.353,-272.49942000000004,0.821,0.41100000000000003,mary bono,"1,205"
+,2014.0,nyc1,-0.413,29926,"weiner, anthony d",I,-0.868,nyc:city,NY,112.0,House,"WEINER, Anthony D.",-0.408,-64.57824000000001,0.843,-0.40399999999999997,anthony weiner,"3,811"
+-1.133,2014.0,NYS12,-0.374,40105,"clinton, hillary rodham",,-1.103,federal:senate,NY,111.0,Senate,"CLINTON, Hillary Rodham",-0.36700000000000005,-32.82782,0.917,-0.5920000000000001,hillary clinton,"46,362"
+1.065,2014.0,TNS14,0.318,40304,"alexander, lamar",,0.9159999999999999,federal:senate,TN,116.0,Senate,"ALEXANDER, Lamar",0.324,-26.86177,0.94025,0.322,lamar alexander,"1,074"
+1.44,2014.0,TXS14,0.507,40305,"cornyn, john",,1.073,federal:senate,TX,116.0,Senate,"CORNYN, John",0.494,-32.86877,0.9399799999999999,0.449,john cornyn,"3,262"
+1.186,2014.0,IDS14,0.6609999999999999,40902,"risch, james e",,1.005,federal:senate,ID,116.0,Senate,"RISCH, James",0.631,-21.88342,0.95955,0.596,james risch,"1,084"
+-1.256,2014.0,MNS14,-0.389,40904,"franken, al",,-1.482,federal:senate,MN,115.0,Senate,"FRANKEN, Al",-0.39899999999999997,-23.04081,0.9238799999999999,-0.33899999999999997,al franken,"2,229"
+-1.082,2014.0,NHS14,-0.299,40906,"shaheen, jeanne",,-1.2670000000000001,federal:senate,NH,116.0,Senate,"SHAHEEN, Jeanne",-0.239,-69.15536999999999,0.8791700000000001,-0.213,jeanne shaheen,"1,113"
+-1.111,2014.0,ORS14,-0.406,40908,"merkley, jeffrey alan",,-1.423,federal:senate,OR,116.0,Senate,"MERKLEY, Jeff",-0.445,-69.66847,0.8774700000000001,-0.41,jeff merkley,"2,412"
+-0.8859999999999999,2014.0,VAS14,-0.209,40909,"warner, mark r",,-0.792,federal:senate,VA,116.0,Senate,"WARNER, Mark",-0.201,-61.98545,0.8878299999999999,-0.22399999999999998,mark warner,"3,163"
+0.24100000000000002,2014.0,NHS14,0.12300000000000001,40913,"brown, scott",,0.841,federal:senate,NH,112.0,Senate,"BROWN, Scott P.",0.128,-118.93215,0.747,0.083,scott brown,"3,103"
+-0.769,2014.0,DES14,-0.284,40916,"coons, christopher a",,-1.099,federal:senate,DE,116.0,Senate,"COONS, Christopher A.",-0.226,-63.12775,0.8865,-0.19699999999999998,chris coons,"5,437"
+-0.669,2014.0,NJS14,-0.313,41308,"booker, cory a",,-0.9259999999999999,federal:senate,NJ,116.0,Senate,"BOOKER, Cory Anthony",-0.61,-32.22121,0.89056,-0.603,cory booker,"7,818"
+1.1640000000000001,2014.0,GAS14,0.27899999999999997,41501,"perdue, david",,1.181,federal:senate,GA,116.0,Senate,"PERDUE, David Alfred, Jr.",0.565,-35.86002,0.9305200000000001,0.474,david perdue,613
+1.089,2014.0,IAS14,0.273,41502,"ernst, joni k",,1.199,federal:senate,IA,116.0,Senate,"ERNST, Joni",0.529,-52.1014,0.90671,0.552,joni ernst,"1,433"
+0.23399999999999999,2014.0,NES14,0.27699999999999997,41503,"sasse, benjamin e",,1.204,federal:senate,NE,116.0,Senate,"SASSE, Benjamin Eric",0.794,-32.863690000000005,0.93853,0.728,benjamin e sasse,"1,208"
+0.919,2014.0,NCS14,0.214,41504,"tillis, thom r",,1.021,federal:senate,NC,116.0,Senate,"TILLIS, Thomas Roland (Thom)",0.429,-32.1495,0.93914,0.43700000000000006,thom tillis,"1,107"
+,2014.0,SDS14,0.18899999999999997,41505,"rounds, marion michael",,1.188,federal:senate,SD,116.0,Senate,"ROUNDS, Marion Michael (Mike)",0.40399999999999997,-33.828179999999996,0.9315399999999999,0.428,mike rounds,883
+1.246,2014.0,,0.35700000000000004,49306,"hutchison, kay bailey",,1.048,state:governor,TX,112.0,Senate,"HUTCHISON, Kathryn Ann Bailey (Kay)",0.35600000000000004,-104.24529,0.762,0.353,kay bailey hutchison,908
+0.004,2014.0,MES14,0.09300000000000001,49703,"collins, susan m",,0.451,federal:senate,ME,116.0,Senate,"COLLINS, Susan Margaret",0.11199999999999999,-47.48258,0.91553,0.128,susan collins,"3,267"
+-0.741,2014.0,PRES,-0.442,99909,"clinton, william jefferson",,-0.815,federal:president,00,106.0,President,"CLINTON, William Jefferson (Bill)",-0.43799999999999994,-44.00832,0.743,,bill clinton,"13,833"
+-1.218,2014.0,PRES,-0.34700000000000003,99911,"obama, barack",,-1.517,federal:president,00,113.0,President,"OBAMA, Barack",-0.354,-41.04464,0.882,-0.35700000000000004,barack obama,"128,166"
+-1.014,2014.0,,,CA142074,"newsom, gavin",D,-1.0270000000000001,state:office,CA,,,,,,,,gavin newsom,"1,244"
+-0.509,2014.0,DC01,,H0DC00058,"norton, eleanor holmes",,-0.772,federal:house,DC,,,,,,,,eleanor holmes norton,"1,047"
+0.745,2014.0,SC01,,H2SC00020,"bauer, andre",,0.8370000000000001,federal:house,SC,,,,,,,,andré bauer,"1,172"
+,2014.0,CA33,,H4CA33085,"williamson, marianne",,-1.555,federal:house,CA,,,,,,,,marianne williamson,613
+1.4780000000000002,2014.0,,,H4TX10127,"patrick, dan",,1.252,state:office,TX,,,,,,,,dan patrick,"1,058"
+,2014.0,TX32,,H4TX32022,"pierson, katrina lanette",,1.518,federal:house,TX,,,,,,,,katrina pierson,"3,160"
+0.445,2014.0,PRES,,P00003251,"giuliani, rudolph w",,0.504,federal:president,00,,,,,,,,rudy giuliani,"11,462"
+1.054,2014.0,PRES,,P00003608,"cain, herman",,1.354,federal:president,00,,,,,,,,herman cain,"7,547"
+1.281,2014.0,,,P20003281,"perry, rick",,1.169,state:governor,TX,,,,,,,,rick perry,"4,539"
+-1.996,2014.0,PRES,,P20003984,"stein, jill",,-1.8940000000000001,federal:president,00,,,,,,,,jill stein,672
+-1.1320000000000001,2014.0,,,S2CA00088,"brown, edmund",D,-0.867,state:governor,CA,,,,,,,,jerry brown,"1,107"
+0.9990000000000001,2014.0,VAS14,,S4VA00155,"gillespie, edward w",,1.1340000000000001,federal:senate,VA,,,,,,,,ed gillespie,907
+1.3769999999999998,2014.0,,,TX11001,"abbott, greg",,1.169,state:governor,TX,,,,,,,,greg abbott,"2,214"
+,2014.0,,,TX413661,"berger, rebecca",R,1.693,state:office,TX,,,,,,,,rebecca berg,"1,431"
+,2014.0,8,,TX7033,"paxton, w kenneth",R,1.24,state:upper,TX,,,,,,,,ken paxton,690
+,2014.0,,,VA_CC-13-00001,"northam,  ralph shearer ",,-0.998,state:governor,VA,,,,,,,,ralph northam,"1,248"
+,2014.0,nyc6,,nyc326,"de blasio, bill ",I,-0.9590000000000001,nyc:city,NY,,,,,,,,bill de blasio,"4,657"
+-0.609,2016.0,NY13,-0.514,13035,"rangel, charles b.",D,-0.597,federal:house,NY,114.0,House,"RANGEL, Charles B.",-0.514,-100.02235,0.9109999999999999,-0.498,charles rangel,"2,178"
+,2016.0,IAS16,0.342,14226,"grassley, charles e",R,0.807,federal:senate,IA,116.0,Senate,"GRASSLEY, Charles Ernest",0.34600000000000003,-60.161190000000005,0.8942,0.505,chuck grassley,"2,721"
+-0.802,2016.0,VTS16,-0.374,14307,"leahy, patrick j.",D,-0.877,federal:senate,VT,116.0,Senate,"LEAHY, Patrick Joseph",-0.361,-98.65701,0.8262799999999999,-0.28,patrick leahy,"1,931"
+1.014,2016.0,INS16,0.375,14806,"coats, daniel r",R,1.078,federal:senate,IN,114.0,Senate,"COATS, Daniel Ray",0.375,-111.40278,0.763,0.537,dan coats,"1,558"
+-0.8170000000000001,2016.0,NYS16,-0.35,14858,"schumer, charles",D,-0.607,federal:senate,NY,116.0,Senate,"SCHUMER, Charles Ellis (Chuck)",-0.358,-87.94884,0.84919,-0.41200000000000003,chuck schumer,"8,613"
+-1.247,2016.0,ORS16,-0.317,14871,"wyden, ronald lee",D,-0.5720000000000001,federal:senate,OR,116.0,Senate,"WYDEN, Ronald Lee",-0.32799999999999996,-108.00487,0.81533,-0.371,ron wyden,"1,519"
+-1.024,2016.0,CAS16,-0.45,15011,"boxer, barbara",D,-1.238,federal:senate,CA,114.0,Senate,"BOXER, Barbara",-0.45,-46.4471,0.8809999999999999,-0.485,barbara boxer,"1,642"
+0.841,2016.0,AZS16,0.381,15039,"mccain, john s.",R,0.73,federal:senate,AZ,115.0,Senate,"McCAIN, John Sidney, III",0.381,-41.58471,0.85272,0.39399999999999996,john mccain,"16,035"
+-0.8540000000000001,2016.0,NVS16,-0.276,15054,"reid, harry mason",D,-0.603,federal:senate,NV,114.0,Senate,"REID, Harry",-0.276,-68.81173000000001,0.828,-0.502,harry reid,"4,718"
+-0.919,2016.0,WA07,-0.6659999999999999,15613,"mcdermott, james adelbert",D,-1.069,federal:house,WA,114.0,House,"McDERMOTT, James A.",-0.6659999999999999,-108.50771,0.905,-0.49200000000000005,jim mcdermott,956
+-0.6779999999999999,2016.0,NY03,-0.33399999999999996,20129,"israel, steve",D,-0.634,federal:house,NY,114.0,House,"ISRAEL, Steve",-0.33399999999999996,-92.75235,0.919,-0.39399999999999996,steve israel,"1,863"
+-1.008,2016.0,MD08,-0.391,20330,"van hollen, chris",D,-1.101,federal:house,MD,116.0,Senate,"VAN HOLLEN, Christopher",-0.39,-84.29301,0.8547299999999999,-0.37200000000000005,chris van hollen,"5,131"
+-1.308,2016.0,PAS16,-0.271,20744,"sestak, joseph a jr.",D,-1.26,federal:senate,PA,111.0,House,"SESTAK, Joe",-0.271,-118.87953999999999,0.877,-0.273,joe sestak,"1,178"
+-1.382,2016.0,MD04,-0.562,20763,"edwards, donna fern",D,-1.3880000000000001,federal:house,MD,114.0,House,"EDWARDS, Donna F.",-0.562,-71.33447,0.937,-0.474,donna edwards,"2,465"
+1.1540000000000001,2016.0,IL18,0.311,20914,"schock, aaron jon mr.",R,0.922,federal:house,IL,114.0,House,"SCHOCK, Aaron",0.311,-15.2141,0.871,0.33899999999999997,aaron schock,739
+1.199,2016.0,OKS16,0.569,21166,"lankford, james paul mr",R,1.162,federal:senate,OK,116.0,Senate,"LANKFORD, James",0.589,-30.849090000000004,0.94427,0.6940000000000001,james lankford,"1,855"
+0.992,2016.0,SCS16,0.66,21173,"scott, timothy e",R,0.9690000000000001,federal:senate,SC,116.0,Senate,"SCOTT, Tim",0.637,-39.40985,0.9286,0.5589999999999999,tim scott,"2,534"
+-0.905,2016.0,FL18,-0.18600000000000003,21319,"murphy, patrick e",D,-0.9670000000000001,federal:house,FL,114.0,House,"MURPHY, Patrick",-0.18600000000000003,-209.56091,0.8240000000000001,-0.244,patrick murphy,"1,145"
+0.222,2016.0,FL13,0.23,21401,"jolly, david w.",R,0.813,federal:house,FL,114.0,House,"JOLLY, David W.",0.23,-228.78436000000002,0.807,0.23,david jolly,"2,404"
+,2016.0,OH08,0.513,29137,"boehner, john andrew",R,0.981,federal:house,OH,114.0,House,"BOEHNER, John Andrew",0.513,-6.4221,0.7809999999999999,0.149,john boehner,"14,589"
+,2016.0,FL07,0.45299999999999996,29331,"mica, john l",R,0.693,federal:house,FL,114.0,House,"MICA, John L.",0.45299999999999996,-113.52337,0.904,0.44299999999999995,john mica,836
+,2016.0,OHS16,0.375,29386,"portman, rob",R,0.909,federal:senate,OH,116.0,Senate,"PORTMAN, Robert Jones (Rob)",0.373,-25.98645,0.9526700000000001,0.305,rob portman,"2,079"
+-1.03,2016.0,CA46,-0.36700000000000005,29709,"sanchez, loretta",D,-0.818,federal:house,CA,114.0,House,"SANCHEZ, Loretta",-0.36700000000000005,-108.19825,0.879,-0.36,loretta sanchez,871
+,2016.0,MOS16,0.43,29735,"blunt, roy",R,0.9229999999999999,federal:senate,MO,116.0,Senate,"BLUNT, Roy",0.426,-30.515420000000002,0.94425,0.341,roy blunt,"1,544"
+-1.073,2016.0,OHS16,-0.384,29747,"strickland, ted",D,-0.807,federal:senate,OH,109.0,House,"STRICKLAND, Ted",-0.384,-144.02661,0.8170000000000001,-0.396,ted strickland,749
+1.127,2016.0,SDS16,0.409,29754,"thune, john",R,1.133,federal:senate,SD,116.0,Senate,"THUNE, John",0.41,-21.72634,0.9602799999999999,0.38,john thune,"2,774"
+1.136,2016.0,PAS16,0.63,29935,"toomey, patrick joseph",R,1.018,federal:senate,PA,116.0,Senate,"TOOMEY, Patrick Joseph",0.648,-49.6677,0.9077200000000001,0.737,pat toomey,"1,578"
+,2016.0,SCS16,0.7,29936,"demint, james warren",R,1.126,federal:senate,SC,112.0,Senate,"DeMINT, James W.",0.7,-83.44081,0.7979999999999999,0.9079999999999999,jim demint,"1,762"
+0.899,2016.0,AKS16,0.20800000000000002,40300,"murkowski, lisa",R,0.601,federal:senate,AK,116.0,Senate,"MURKOWSKI, Lisa",0.21100000000000002,-41.37502,0.9202799999999999,0.294,lisa murkowski,"1,416"
+-1.064,2016.0,CTS16,-0.415,41101,"blumenthal, richard",D,-1.015,federal:senate,CT,116.0,Senate,"BLUMENTHAL, Richard",-0.431,-77.35338,0.8653799999999999,-0.447,richard blumenthal,"5,914"
+0.884,2016.0,FLS16,0.586,41102,"rubio, marco",R,1.087,federal:senate,FL,116.0,Senate,"RUBIO, Marco",0.568,-44.88127,0.9171600000000001,0.52,marco rubio,"14,368"
+,2016.0,KYS16,0.875,41104,"paul, rand",R,1.278,federal:senate,KY,116.0,Senate,"PAUL, Rand",0.879,-141.81454,0.75133,0.887,rand paul,"13,906"
+,2016.0,NHS16,0.35100000000000003,41106,"ayotte, kelly a",R,0.903,federal:senate,NH,114.0,Senate,"AYOTTE, Kelly",0.35100000000000003,-126.06028,0.7390000000000001,0.276,kelly ayotte,"1,653"
+,2016.0,NDS16,0.34,41107,"hoeven, john",R,1.187,federal:senate,ND,116.0,Senate,"HOEVEN, John",0.342,-19.20852,0.9642700000000001,0.353,john hoeven,603
+1.055,2016.0,UTS16,0.919,41110,"lee, mike",R,1.069,federal:senate,UT,116.0,Senate,"LEE, Mike",0.9159999999999999,-102.06489,0.8245299999999999,0.902,mike lee,"3,285"
+-1.101,2016.0,CAS16,-0.688,41701,"harris, kamala d",D,-1.3419999999999999,federal:senate,CA,116.0,Senate,"HARRIS, Kamala Devi",-0.7090000000000001,-26.953570000000003,0.91435,-0.722,kamala harris,"8,881"
+0.946,2016.0,LAS16,0.44799999999999995,41703,"kennedy, john neely",R,0.851,federal:senate,LA,116.0,Senate,"KENNEDY, John Neely",0.5920000000000001,-62.49637,0.88797,0.6809999999999999,john neely kennedy,"2,417"
+-0.968,2016.0,WAS16,-0.341,49308,"murray, patty",D,-1.1179999999999999,federal:senate,WA,116.0,Senate,"MURRAY, Patty",-0.35100000000000003,-75.2279,0.86335,-0.40700000000000003,patty murray,"1,372"
+1.072,2016.0,AZ01,,H2AZ04127,"babeu, paul raymond",R,1.193,federal:house,AZ,,,,,,,,paul babeu,"1,123"
+,2016.0,FL19,,H6FL19095,"bongino, daniel j",R,1.4080000000000001,federal:house,FL,,,,,,,,dan bongino,"8,167"
+,2016.0,MI10,,H6MI10185,"flynn, michael",R,0.589,federal:house,MI,,,,,,,,michael t flynn,"6,430"
+1.192,2018.0,UTS18,0.382,14503,"hatch, orrin g",R,0.595,federal:senate,UT,115.0,Senate,"HATCH, Orrin Grant",0.382,-29.34808,0.9450200000000001,0.35600000000000004,orrin hatch,"2,317"
+-0.684,2018.0,FLS18,-0.19399999999999998,14651,"nelson, bill",D,-0.75,federal:senate,FL,115.0,Senate,"NELSON, Clarence William (Bill)",-0.193,-61.434259999999995,0.8814799999999999,-0.193,bill nelson,"1,254"
+-0.7340000000000001,2018.0,MD05,-0.379,14873,"hoyer, steny",D,-0.546,federal:house,MD,116.0,House,"HOYER, Steny Hamilton",-0.38,-15.891470000000002,0.9789200000000001,-0.379,steny hoyer,"3,845"
+-0.775,2018.0,MDS18,-0.32799999999999996,15408,"cardin, benjamin l",D,-0.8170000000000001,federal:senate,MD,116.0,Senate,"CARDIN, Benjamin Louis",-0.321,-86.01597,0.85019,-0.27899999999999997,ben cardin,"3,092"
+-0.7979999999999999,2018.0,GA05,-0.589,15431,"lewis, john r.",D,-0.9990000000000001,federal:house,GA,116.0,House,"LEWIS, John R.",-0.589,-11.005360000000001,0.9825200000000001,-0.449,john lewis,"2,210"
+-0.863,2018.0,CA12,-0.49200000000000005,15448,"pelosi, nancy",D,-1.129,federal:house,CA,116.0,House,"PELOSI, Nancy",-0.49,-0.6039,0.99015,-0.42700000000000005,nancy pelosi,"19,776"
+-0.867,2018.0,NJ06,-0.401,15454,"pallone, frank jr",D,-0.513,federal:house,NJ,116.0,House,"PALLONE, Frank, Jr.",-0.40399999999999997,-16.04552,0.97911,-0.413,frank pallone,620
+-0.7709999999999999,2018.0,NY16,-0.408,15603,"engel, eliot l.",D,-0.391,federal:house,NY,116.0,House,"ENGEL, Eliot Lance",-0.408,-21.45617,0.97191,-0.462,eliot engel,"1,551"
+,2018.0,FL27,0.245,15634,"ros lehtinen, ileana the hon.",R,0.358,federal:house,FL,115.0,House,"ROS-LEHTINEN, Ileana",0.244,-208.93536,0.77531,0.213,ileana ros-lehtinen,634
+1.018,2018.0,AZS18,0.855,20100,"flake, jeffry lane",R,1.071,federal:senate,AZ,115.0,Senate,"FLAKE, Jeff",0.855,-62.93724,0.87639,0.853,jeff flake,"2,960"
+-1.3659999999999999,2018.0,CA28,-0.34700000000000003,20104,"schiff, adam",D,-1.113,federal:house,CA,116.0,House,"SCHIFF, Adam",-0.349,-14.280129999999998,0.98134,-0.425,adam schiff,"17,625"
+0.961,2018.0,CA49,0.505,20107,"issa, darrell e",R,0.9790000000000001,federal:house,CA,115.0,House,"ISSA, Darrell",0.506,-97.21240999999999,0.89836,0.451,darrell issa,"5,653"
+1.305,2018.0,AZ08,0.7490000000000001,20304,"franks, trent",R,1.12,federal:house,AZ,115.0,House,"FRANKS, Trent",0.7490000000000001,-45.672470000000004,0.91933,0.621,trent franks,904
+-0.6990000000000001,2018.0,AZ03,-0.598,20305,"grijalva, raul m",D,-0.915,federal:house,AZ,116.0,House,"GRIJALVA, Raúl M.",-0.599,-21.28354,0.97083,-0.581,raúl grijalva,895
+1.197,2018.0,CA22,0.449,20307,"nunes, devin g",R,1.083,federal:house,CA,116.0,House,"NUNES, Devin",0.45,-74.87527,0.90559,0.461,devin nunes,"5,886"
+1.24,2018.0,IA04,0.617,20325,"king, steve mr.",R,1.335,federal:house,IA,116.0,House,"KING, Steve",0.612,-180.7294,0.77527,0.579,steve king,"2,568"
+0.46799999999999997,2018.0,OH10,0.267,20342,"turner, michael r",R,0.83,federal:house,OH,116.0,House,"TURNER, Michael R.",0.271,-101.20288000000001,0.87346,0.302,mike turner,990
+-0.816,2018.0,OH13,-0.402,20343,"ryan, timothy j.",D,-0.588,federal:house,OH,116.0,House,"RYAN, Timothy J.",-0.40299999999999997,-19.23209,0.96886,-0.35600000000000004,tim ryan,"2,619"
+1.061,2018.0,OK04,0.335,20344,"cole, tom",R,0.853,federal:house,OK,116.0,House,"COLE, Tom",0.331,-115.63058000000001,0.8585200000000001,0.29600000000000004,tom cole,"1,498"
+1.244,2018.0,TX05,0.703,20352,"hensarling, jeb hon.",R,1.1059999999999999,federal:house,TX,115.0,House,"HENSARLING, Jeb",0.703,-68.08408,0.93035,0.645,jeb hensarling,915
+1.49,2018.0,TX26,0.57,20355,"burgess, michael clifton",R,1.0759999999999998,federal:house,TX,116.0,House,"BURGESS, Michael C.",0.5760000000000001,-139.86584,0.8296600000000001,0.617,michael c burgess,"1,240"
+-0.49,2018.0,FL23,-0.425,20504,"schultz, debbie wasserman",D,-0.79,federal:house,FL,116.0,House,"WASSERMAN SCHULTZ, Debbie",-0.42100000000000004,-25.01195,0.96672,-0.359,debbie wasserman schultz,"3,577"
+1.205,2018.0,GA06,0.644,20505,"price, thomas edmunds",R,1.074,federal:house,GA,115.0,House,"PRICE, Tom",0.644,-0.02153,0.98929,0.23600000000000002,tom price,"3,098"
+-1.0270000000000001,2018.0,MO05,-0.452,20517,"cleaver, emanuel ii",D,-0.728,federal:house,MO,116.0,House,"CLEAVER, Emanuel, II",-0.45399999999999996,-28.754490000000004,0.96106,-0.531,emanuel cleaver,"1,413"
+,2018.0,TX01,0.597,20527,"gohmert, louis b. mr. jr.",R,1.3419999999999999,federal:house,TX,116.0,House,"GOHMERT, Louie",0.625,-137.64398,0.81868,0.705,louie gohmert,"2,355"
+-0.721,2018.0,TX09,-0.433,20529,"green, alexander",D,-0.45399999999999996,federal:house,TX,116.0,House,"GREEN, Al",-0.43799999999999994,-29.1233,0.96221,-0.42700000000000005,al green,793
+1.1159999999999999,2018.0,TX10,0.45,20530,"mccaul, michael",R,1.077,federal:house,TX,116.0,House,"McCAUL, Michael T.",0.434,-140.00892,0.8307399999999999,0.332,michael mccaul,"2,204"
+-0.22899999999999998,2018.0,TX28,-0.226,20533,"cuellar, roberto enrique",D,0.39799999999999996,federal:house,TX,116.0,House,"CUELLAR, Henry",-0.228,-132.54706000000002,0.8393799999999999,-0.348,henry cuellar,940
+1.011,2018.0,WA05,0.43,20535,"mcmorris rodgers, cathy",R,0.935,federal:house,WA,116.0,House,"McMORRIS RODGERS, Cathy",0.426,-118.31948,0.8518700000000001,0.41200000000000003,cathy mcmorris rodgers,"1,232"
+0.873,2018.0,CA23,0.462,20703,"mccarthy, kevin",R,0.799,federal:house,CA,116.0,House,"MCCARTHY, Kevin",0.45899999999999996,-90.46819,0.88594,0.428,kevin mccarthy,"6,604"
+-1.163,2018.0,HIS18,-0.49,20713,"hirono, mazie k",D,-1.157,federal:senate,HI,116.0,Senate,"HIRONO, Mazie",-0.51,-70.95754000000001,0.8726700000000001,-0.57,mazie hirono,"2,326"
+-0.9440000000000001,2018.0,KY03,-0.379,20723,"yarmuth, john a mr",D,-0.733,federal:house,KY,116.0,House,"YARMUTH, John",-0.379,-19.6099,0.97426,-0.44,john yarmuth,"1,156"
+-1.537,2018.0,MN05,-0.5429999999999999,20727,"ellison, keith maurice",D,-1.268,federal:house,MN,115.0,House,"ELLISON, Keith",-0.537,-70.82184000000001,0.9168700000000001,-0.551,keith ellison,"2,715"
+,2018.0,NVS18,0.46399999999999997,20730,"heller, dean",R,0.866,federal:senate,NV,115.0,Senate,"HELLER, Dean",0.46299999999999997,-94.72531,0.82773,0.48100000000000004,dean heller,673
+-0.9690000000000001,2018.0,NYS18,-0.382,20735,"gillibrand, kirsten elizabeth",D,-1.133,federal:senate,NY,116.0,Senate,"GILLIBRAND, Kirsten",-0.474,-79.05728,0.8341700000000001,-0.754,kirsten gillibrand,"3,516"
+1.308,2018.0,OH04,0.706,20738,"jordan, james d.",R,1.212,federal:house,OH,116.0,House,"JORDAN, Jim",0.718,-90.28921,0.88644,0.764,jim jordan,"5,226"
+-0.5920000000000001,2018.0,TN09,-0.402,20748,"cohen, stephen ira",D,-0.294,federal:house,TN,116.0,House,"COHEN, Stephen",-0.4,-25.52158,0.9663700000000001,-0.39899999999999997,steve cohen,"2,261"
+-1.304,2018.0,VT01,-0.409,20750,"welch, peter",D,-1.159,federal:house,VT,116.0,House,"WELCH, Peter",-0.409,-19.37773,0.9740200000000001,-0.515,peter welch,"1,510"
+-0.616,2018.0,IN07,-0.429,20757,"carson, andre",D,-0.8490000000000001,federal:house,IN,116.0,House,"CARSON, André",-0.431,-39.67819,0.9488,-0.551,andré carson,946
+,2018.0,LA01,0.5589999999999999,20759,"scalise, steve mr",R,0.977,federal:house,LA,116.0,House,"SCALISE, Steve",0.564,-74.19678,0.9059299999999999,0.584,steve scalise,"4,044"
+,2018.0,CA14,-0.384,20762,"speier, jackie",D,-1.031,federal:house,CA,116.0,House,"SPEIER, Karen Lorraine Jacqueline (Jackie)",-0.38,-40.59042,0.9454100000000001,-0.307,jackie speier,"2,684"
+0.971,2018.0,CA04,0.7440000000000001,20903,"mcclintock, thomas",R,1.215,federal:house,CA,116.0,House,"McCLINTOCK, Tom",0.72,-164.83281000000002,0.8008,0.645,tom mcclintock,769
+-1.244,2018.0,CO02,-0.28,20904,"polis, jared",D,-1.028,federal:house,CO,115.0,House,"POLIS, Jared",-0.278,-126.08868999999999,0.8619899999999999,-0.27,jared polis,679
+1.193,2018.0,CO06,0.498,20906,"coffman, mike rep.",R,1.158,federal:house,CO,115.0,House,"COFFMAN, Mike",0.49200000000000005,-156.11568,0.8489,0.424,mike coffman,635
+-1.123,2018.0,CT04,-0.24100000000000002,20907,"himes, jim",D,-1.052,federal:house,CT,116.0,House,"HIMES, James A.",-0.242,-41.03841,0.94668,-0.314,jim himes,"2,691"
+-1.167,2018.0,FL11,-0.363,20908,"grayson, alan mark",D,-1.504,federal:house,FL,114.0,House,"GRAYSON, Alan",-0.363,-179.64887,0.8490000000000001,-0.33299999999999996,alan grayson,977
+0.963,2018.0,UT03,0.647,20949,"chaffetz, jason",R,0.8320000000000001,federal:house,UT,115.0,House,"CHAFFETZ, Jason",0.647,-10.593110000000001,0.95867,0.41700000000000004,jason chaffetz,"11,387"
+-1.147,2018.0,VA11,-0.305,20952,"connolly, gerry",D,-0.902,federal:house,VA,116.0,House,"CONNOLLY, Gerald E. (Gerry)",-0.306,-49.911429999999996,0.93595,-0.24100000000000002,gerry connolly,"1,505"
+-1.011,2018.0,IL05,-0.317,20954,"quigley, mike",D,-0.946,federal:house,IL,116.0,House,"QUIGLEY, Mike",-0.321,-18.79214,0.97519,-0.382,mike quigley,752
+-1.058,2018.0,CA03,-0.313,20958,"garamendi, john",D,-0.8959999999999999,federal:house,CA,116.0,House,"GARAMENDI, John",-0.309,-30.73555,0.9596399999999999,-0.297,john garamendi,"3,120"
+-0.648,2018.0,FL22,-0.40299999999999997,20959,"deutch, theodore eliot",D,-0.45899999999999996,federal:house,FL,116.0,House,"DEUTCH, Theodore E. (Ted)",-0.4,-17.721529999999998,0.9763700000000001,-0.39899999999999997,ted deutch,940
+0.955,2018.0,CA50,0.513,20963,"hunter, duncan d.",R,0.84,federal:house,CA,116.0,House,"HUNTER, Duncan Duane",0.539,-124.54558,0.7973600000000001,0.637,duncan d hunter,922
+0.252,2018.0,NY23,0.298,21101,"reed, thomas w ii",R,0.63,federal:house,NY,116.0,House,"REED, Thomas W. II",0.278,-151.71436,0.8144100000000001,0.23399999999999999,tom reed,990
+-1.263,2018.0,CA37,-0.575,21110,"bass, karen",D,-1.097,federal:house,CA,116.0,House,"BASS, Karen",-0.585,-15.99135,0.978,-0.573,karen bass,"2,243"
+0.9059999999999999,2018.0,FL15,0.534,21117,"ross, dennis alan",R,0.8170000000000001,federal:house,FL,115.0,House,"ROSS, Dennis",0.531,-52.026920000000004,0.93994,0.47200000000000003,dennis ross,691
+1.298,2018.0,ID01,0.728,21125,"labrador, raul r. hon.",R,1.213,federal:house,ID,115.0,House,"LABRADOR, Raúl R.",0.735,-121.02518,0.8624700000000001,1.0,raúl labrador,669
+1.288,2018.0,KS04,0.66,21136,"pompeo, michael r",R,1.2890000000000001,federal:house,KS,115.0,House,"POMPEO, Mike",0.66,-5e-05,0.99995,0.5720000000000001,mike pompeo,"7,485"
+,2018.0,LA02,-0.473,21137,"richmond, cedric l.",D,-0.379,federal:house,LA,116.0,House,"RICHMOND, Cedric",-0.486,-40.11294,0.94529,-0.662,cedric richmond,"1,015"
+1.375,2018.0,MI03,0.6579999999999999,21143,"amash, justin",R,1.3769999999999998,federal:house,MI,116.0,House,"AMASH, Justin",0.654,-172.05329,0.62734,0.919,justin amash,632
+0.542,2018.0,NY11,0.21899999999999997,21154,"grimm, michael",R,0.501,federal:house,NY,113.0,House,"GRIMM, Michael G.",0.21899999999999997,-188.92828,0.821,0.198,michael grimm,971
+1.089,2018.0,OH07,0.45899999999999996,21165,"gibbs, robert",R,1.001,federal:house,OH,116.0,House,"GIBBS, Bob",0.473,-77.10067,0.9002899999999999,0.503,robert gibbs,"4,079"
+-1.2409999999999999,2018.0,RI01,-0.391,21172,"cicilline, david n",D,-1.0859999999999999,federal:house,RI,116.0,House,"CICILLINE, David N.",-0.39,-22.72844,0.9702700000000001,-0.423,david cicilline,"2,527"
+1.112,2018.0,SC04,0.664,21175,"gowdy, trey",R,1.172,federal:house,SC,115.0,House,"GOWDY, Trey",0.655,-58.51558000000001,0.93732,0.5479999999999999,trey gowdy,"5,814"
+1.032,2018.0,SC05,0.75,21176,"mulvaney, john michael  mick",R,1.147,federal:house,SC,115.0,House,"MULVANEY, Mick",0.75,-0.09233,0.9817,0.349,mick mulvaney,"2,384"
+1.3969999999999998,2018.0,SD01,0.396,21177,"noem, kristi lynn",R,1.317,federal:house,SD,115.0,House,"NOEM, Kristi",0.39799999999999996,-85.73389,0.90395,0.469,kristi noem,825
+1.2409999999999999,2018.0,TN06,0.581,21180,"black, diane l mrs.",R,1.05,federal:house,TN,115.0,House,"BLACK, Diane",0.58,-43.95387,0.94078,0.5720000000000001,diane black,604
+1.354,2018.0,WI07,0.505,21189,"duffy, sean",R,1.249,federal:house,WI,116.0,House,"DUFFY, Sean",0.511,-100.93909000000001,0.79459,0.515,sean duffy,"2,384"
+1.212,2018.0,AL05,0.599,21193,"brooks, mo",R,1.15,federal:house,AL,116.0,House,"BROOKS, Mo",0.648,-130.40157,0.8411799999999999,0.7759999999999999,mo brooks,"2,060"
+-0.185,2018.0,CA15,-0.361,21306,"swalwell, eric michael",D,-1.003,federal:house,CA,116.0,House,"SWALWELL, Eric",-0.368,-21.01981,0.9641,-0.522,eric swalwell,"6,851"
+1.138,2018.0,FL03,0.705,21317,"yoho, theodore scott",R,1.048,federal:house,FL,116.0,House,"YOHO, Ted",0.7040000000000001,-123.48523999999999,0.8359200000000001,0.7170000000000001,ted yoho,885
+0.841,2018.0,FL06,0.664,21318,"desantis, ronald d.",R,1.19,federal:house,FL,115.0,House,"DeSANTIS, Ron",0.6629999999999999,-69.4445,0.9187,0.687,ron desantis,"3,094"
+1.375,2018.0,GA09,0.637,21323,"collins, douglas allen",R,1.011,federal:house,GA,116.0,House,"COLLINS, Doug",0.611,-80.29397,0.8935,0.596,doug collins,"2,545"
+-1.2,2018.0,HI02,-0.27899999999999997,21324,"gabbard, tulsi",D,-1.08,federal:house,HI,116.0,House,"GABBARD, Tulsi",-0.278,-20.85716,0.9571299999999999,-0.304,tulsi gabbard,"1,838"
+-1.0859999999999999,2018.0,MD06,-0.275,21334,"delaney, john k",D,-0.706,federal:house,MD,115.0,House,"DELANEY, John",-0.276,-105.64891999999999,0.89294,-0.282,john delaney,"1,325"
+-0.619,2018.0,NY08,-0.479,21343,"jeffries, hakeem",D,-0.943,federal:house,NY,116.0,House,"JEFFRIES, Hakeem",-0.488,-16.1025,0.97867,-0.49,hakeem jeffries,"3,303"
+,2018.0,NY18,-0.386,21344,"maloney, sean patrick",D,-0.937,federal:house,NY,116.0,House,"MALONEY, Sean Patrick",-0.23800000000000002,-40.15794,0.9481299999999999,-0.309,sean patrick maloney,"1,172"
+0.795,2018.0,NY27,0.366,21345,"collins, christopher c",R,0.727,federal:house,NY,116.0,House,"COLLINS, Chris",0.35700000000000004,-61.83374,0.87498,0.32799999999999996,chris collins,"1,736"
+1.15,2018.0,NC11,0.626,21348,"meadows, mark r",R,1.136,federal:house,NC,116.0,House,"MEADOWS, Mark",0.605,-132.76565,0.81396,0.5870000000000001,mark meadows,"3,563"
+0.9840000000000001,2018.0,OH02,0.5770000000000001,21351,"wenstrup, brad dr.",R,1.041,federal:house,OH,116.0,House,"WENSTRUP, Brad",0.552,-88.06300999999999,0.88766,0.51,brad wenstrup,662
+-0.958,2018.0,OH03,-0.435,21352,"beatty, joyce",D,-0.436,federal:house,OH,116.0,House,"BEATTY, Joyce",-0.43,-15.360270000000002,0.97906,-0.473,joyce beatty,755
+-0.446,2018.0,TX20,-0.39799999999999996,21362,"castro, joaquin",D,-0.445,federal:house,TX,116.0,House,"CASTRO, Joaquin",-0.39899999999999997,-32.117129999999996,0.9573,-0.609,joaquin castro,"2,547"
+1.07,2018.0,UT02,0.521,21367,"stewart, chris",R,0.937,federal:house,UT,116.0,House,"STEWART, Chris",0.528,-83.98323,0.8935299999999999,0.536,chris stewart,"1,535"
+-0.9940000000000001,2018.0,MI05,-0.401,21372,"kildee, daniel t.",D,-0.81,federal:house,MI,116.0,House,"KILDEE, Dan",-0.396,-15.00325,0.98045,-0.478,dan kildee,"1,637"
+1.381,2018.0,AZ02,0.337,21501,"mcsally, martha",R,1.2790000000000001,federal:house,AZ,116.0,Senate,"McSALLY, Martha",0.345,-32.70022,0.9401700000000001,0.33799999999999997,martha mcsally,"1,108"
+-1.0390000000000001,2018.0,AZ07,-0.45899999999999996,21502,"gallego, ruben",D,-0.8170000000000001,federal:house,AZ,116.0,House,"GALLEGO, Ruben",-0.449,-20.79637,0.9725799999999999,-0.428,ruben gallego,875
+-1.123,2018.0,CA33,-0.358,21507,"lieu, ted",D,-0.8740000000000001,federal:house,CA,116.0,House,"LIEU, Ted",-0.371,-24.63585,0.9665,-0.595,ted lieu,"2,449"
+1.2670000000000001,2018.0,CO04,0.735,21510,"buck, kenneth r",R,1.285,federal:house,CO,116.0,House,"BUCK, Kenneth Robert",0.7559999999999999,-101.90803000000001,0.8571200000000001,0.7390000000000001,ken buck,646
+0.746,2018.0,FL26,0.207,21512,"curbelo, carlos mr.",R,0.6890000000000001,federal:house,FL,115.0,House,"CURBELO, Carlos",0.21100000000000002,-191.67738,0.80566,0.24,carlos curbelo,"1,031"
+-1.197,2018.0,MA06,-0.307,21525,"moulton, seth",D,-1.032,federal:house,MA,116.0,House,"MOULTON, Seth",-0.28600000000000003,-70.84721,0.90036,-0.225,seth moulton,"1,354"
+-0.9490000000000001,2018.0,MI12,-0.426,21529,"dingell, debbie",D,-0.6859999999999999,federal:house,MI,116.0,House,"DINGELL, Debbie",-0.408,-20.70461,0.97241,-0.387,debbie dingell,"1,859"
+1.185,2018.0,MT01,0.41200000000000003,21532,"zinke, ryan k",R,1.3019999999999998,federal:house,MT,115.0,House,"ZINKE, Ryan",0.41200000000000003,-0.05424,0.9969899999999999,0.539,ryan zinke,605
+-0.40399999999999997,2018.0,NJ01,-0.414,21536,"norcross, donald w",D,-0.44,federal:house,NJ,116.0,House,"NORCROSS, Donald",-0.425,-27.760790000000004,0.9637600000000001,-0.39,donald norcross,878
+,2018.0,NY01,0.353,21539,"zeldin, lee m",R,0.6659999999999999,federal:house,NY,116.0,House,"ZELDIN, Lee M",0.38799999999999996,-163.11006,0.80501,0.42100000000000004,lee zeldin,"2,412"
+0.845,2018.0,PA06,0.218,21547,"costello, ryan a",R,0.7829999999999999,federal:house,PA,115.0,House,"COSTELLO, Ryan",0.217,-174.81377,0.8264299999999999,0.22699999999999998,ryan costello,722
+0.348,2018.0,TX04,0.745,21549,"ratcliffe, john l",R,1.1520000000000001,federal:house,TX,116.0,House,"RATCLIFFE, John",0.693,-74.52081,0.88536,0.654,john ratcliffe,"1,676"
+1.238,2018.0,TX23,0.392,21550,"hurd, william",R,1.115,federal:house,TX,116.0,House,"HURD, William Ballard",0.28800000000000003,-164.75761,0.80183,0.21600000000000003,will hurd,"1,533"
+1.347,2018.0,UT04,0.568,21552,"love, mia",R,1.301,federal:house,UT,115.0,House,"LOVE, Ludmya Bourdeau (Mia)",0.542,-102.70961,0.8950100000000001,0.48100000000000004,mia love,"1,018"
+1.367,2018.0,VA07,0.8390000000000001,21553,"brat, david alan mr.",R,1.3330000000000002,federal:house,VA,115.0,House,"BRAT, David A.",0.8290000000000001,-88.74694000000001,0.91009,0.8109999999999999,dave brat,956
+1.214,2018.0,AZ05,0.929,21705,"biggs, andy",R,1.137,federal:house,AZ,116.0,House,"BIGGS, Andrew S.",0.882,-91.09836999999999,0.88505,1.0,andy biggs,"1,748"
+,2018.0,WY01,0.534,21710,"cheney, elizabeth mrs.",R,1.1640000000000001,federal:house,WY,116.0,House,"CHENEY, Liz",0.51,-103.70355,0.86841,0.503,liz cheney,"1,069"
+-0.516,2018.0,FL13,-0.19699999999999998,21712,"crist, charlie joseph",D,-0.841,federal:house,FL,116.0,House,"CRIST, Charlie Joseph Jr.",-0.221,-32.93745,0.9574799999999999,-0.28600000000000003,charlie crist,"1,196"
+-1.12,2018.0,FL10,-0.331,21713,"demings, valdez val",D,-1.117,federal:house,FL,116.0,House,"DEMINGS, Valdez Butler",-0.33899999999999997,-22.49885,0.97072,-0.313,val demings,"1,871"
+0.9490000000000001,2018.0,FL01,0.728,21719,"gaetz, matt",R,0.8909999999999999,federal:house,FL,116.0,House,"GAETZ, Matthew L. II",0.622,-193.72523999999999,0.75147,0.593,matt gaetz,"3,427"
+,2018.0,WI08,0.513,21720,"gallagher, michael john",R,1.131,federal:house,WI,116.0,House,"GALLAGHER, Michael",0.43799999999999994,-146.51148,0.81793,0.392,mike gallagher,"1,020"
+-1.256,2018.0,WA07,-0.7759999999999999,21726,"jayapal, pramila",D,-1.5930000000000002,federal:house,WA,116.0,House,"JAYAPAL, Pramila",-0.6970000000000001,-34.94893,0.95465,-0.511,pramila jayapal,"1,520"
+1.421,2018.0,LA04,0.5579999999999999,21727,"johnson, james michael",R,1.315,federal:house,LA,116.0,House,"JOHNSON, Mike",0.561,-105.28222,0.86055,0.555,mike johnson,772
+-1.088,2018.0,CA17,-0.5820000000000001,21728,"khanna, rohit",D,-1.028,federal:house,CA,116.0,House,"KHANNA, Rohit",-0.578,-36.97574,0.95239,-0.318,ro khanna,"1,709"
+1.13,2018.0,FL19,0.575,21742,"rooney, francis",R,1.046,federal:house,FL,116.0,House,"ROONEY, Francis",0.509,-255.79764,0.60736,0.494,francis rooney,805
+1.08,2018.0,FL04,0.359,21744,"rutherford, john",R,0.972,federal:house,FL,116.0,House,"RUTHERFORD, John Henry",0.395,-159.0467,0.80542,0.425,johnny rutherford,673
+,2018.0,VA02,0.47600000000000003,21748,"taylor, scott",R,1.021,federal:house,VA,115.0,House,"TAYLOR, Scott William",0.456,-96.73846999999999,0.89936,0.456,scott taylor,845
+-1.023,2018.0,CA43,-0.657,29106,"waters, maxine ms",D,-0.893,federal:house,CA,116.0,House,"WATERS, Maxine",-0.653,-54.12797,0.93055,-0.593,maxine waters,"3,237"
+-1.178,2018.0,VTS18,-0.516,29147,"sanders, bernard",D,-1.828,federal:senate,VT,116.0,Senate,"SANDERS, Bernard",-0.527,-35.00999,0.85226,-0.8079999999999999,bernie sanders,"25,668"
+-0.755,2018.0,CA34,-0.512,29316,"becerra, xavier",D,-0.6459999999999999,federal:house,CA,115.0,House,"BECERRA, Xavier",-0.512,-0.006490000000000001,0.99964,-0.7609999999999999,xavier becerra,"1,782"
+,2018.0,CA39,0.662,29321,"royce, edward r",R,0.6729999999999999,federal:house,CA,115.0,House,"ROYCE, Edward Randall",0.657,-134.2203,0.8669399999999999,0.47700000000000004,ed royce,"1,503"
+-0.9740000000000001,2018.0,IL04,-0.485,29348,"gutierrez, luis v",D,-0.75,federal:house,IL,115.0,House,"GUTIÉRREZ, Luis V.",-0.48700000000000004,-86.59678000000001,0.90104,-0.5720000000000001,luis gutiérrez,"2,150"
+-0.693,2018.0,NJS18,-0.36,29373,"menendez, robert",D,-0.564,federal:senate,NJ,116.0,Senate,"MENENDEZ, Robert",-0.365,-105.14228999999999,0.8218799999999999,-0.376,bob menendez,"3,530"
+0.341,2018.0,NY02,0.26,29375,"king, peter t. hon.",R,0.113,federal:house,NY,116.0,House,"KING, Peter T.",0.259,-150.07426999999998,0.81909,0.251,peter t king,"6,744"
+-0.937,2018.0,NY10,-0.509,29377,"nadler, jerrold l. mr.",D,-0.823,federal:house,NY,116.0,House,"NADLER, Jerrold Lewis",-0.509,-14.22018,0.9809899999999999,-0.5529999999999999,jerrold nadler,"6,763"
+-1.183,2018.0,NY12,-0.386,29379,"maloney, carolyn b.",D,-0.937,federal:house,NY,116.0,House,"MALONEY, Carolyn Bosher",-0.387,-13.39334,0.98249,-0.445,carolyn maloney,"1,054"
+-0.722,2018.0,OHS18,-0.43799999999999994,29389,"brown, sherrod",D,-1.046,federal:senate,OH,116.0,Senate,"BROWN, Sherrod",-0.431,-109.0555,0.81307,-0.385,sherrod brown,"3,412"
+-1.177,2018.0,CA19,-0.401,29504,"lofgren, zoe",D,-0.966,federal:house,CA,116.0,House,"LOFGREN, Zoe",-0.402,-30.338520000000003,0.95972,-0.436,zoe lofgren,774
+1.181,2018.0,SC01,0.6970000000000001,29565,"sanford, marshall c. hon.",R,1.012,federal:house,SC,115.0,House,"SANFORD, Mark",0.6859999999999999,-259.14002999999997,0.75359,0.633,mark sanford,"1,928"
+-0.76,2018.0,TX35,-0.402,29571,"doggett, lloyd",D,-0.8240000000000001,federal:house,TX,116.0,House,"DOGGETT, Lloyd Alton, II",-0.40299999999999997,-33.84302,0.95488,-0.467,lloyd doggett,663
+0.203,2018.0,TX13,0.529,29572,"thornberry, william mcclellan ""mac""",R,1.19,federal:house,TX,116.0,House,"THORNBERRY, William McClellan (Mac)",0.525,-104.9287,0.8669600000000001,0.502,mac thornberry,780
+,2018.0,TX18,-0.45799999999999996,29573,"lee, sheila jackson",D,-0.317,federal:house,TX,116.0,House,"JACKSON LEE, Sheila",-0.46,-19.573539999999998,0.9741,-0.5720000000000001,sheila jackson lee,"2,869"
+-0.8059999999999999,2018.0,MD07,-0.43799999999999994,29587,"cummings, elijah e",D,-0.743,federal:house,MD,116.0,House,"CUMMINGS, Elijah Eugene",-0.43799999999999994,-14.383460000000001,0.9671799999999999,-0.385,elijah cummings,"5,256"
+-1.0290000000000001,2018.0,CA30,-0.34299999999999997,29707,"sherman, brad",D,-0.6559999999999999,federal:house,CA,116.0,House,"SHERMAN, Brad",-0.342,-18.87694,0.97498,-0.461,brad sherman,814
+-1.249,2018.0,CO01,-0.43200000000000005,29710,"degette, diana l.",D,-1.046,federal:house,CO,116.0,House,"DeGETTE, Diana",-0.43200000000000005,-15.96154,0.97911,-0.38799999999999996,diana degette,621
+-1.252,2018.0,MA02,-0.5379999999999999,29729,"mcgovern, james p. mr.",D,-0.905,federal:house,MA,116.0,House,"McGOVERN, James P.",-0.539,-11.79637,0.9845200000000001,-0.48100000000000004,jim mcgovern,"1,087"
+-0.903,2018.0,MIS18,-0.327,29732,"stabenow, debbie",D,-0.978,federal:senate,MI,116.0,Senate,"STABENOW, Deborah Ann",-0.342,-109.23303,0.8115100000000001,-0.391,debbie stabenow,"1,330"
+0.858,2018.0,TX08,0.518,29760,"brady, kevin",R,0.797,federal:house,TX,116.0,House,"BRADY, Kevin Patrick",0.524,-109.04188,0.8592799999999999,0.58,kevin brady,"1,585"
+-1.093,2018.0,WA09,-0.282,29768,"smith, d. adam",D,-0.813,federal:house,WA,116.0,House,"SMITH, Adam",-0.284,-17.24183,0.9771200000000001,-0.35,adam smith,814
+-0.877,2018.0,NY05,-0.41600000000000004,29776,"meeks, gregory w.",D,-0.496,federal:house,NY,116.0,House,"MEEKS, Gregory W.",-0.413,-17.938270000000003,0.97539,-0.53,gregory meeks,"1,710"
+-1.033,2018.0,CA13,-0.6859999999999999,29778,"lee, barbara",D,-1.331,federal:house,CA,116.0,House,"LEE, Barbara",-0.6829999999999999,-22.1185,0.97109,-0.544,barbara lee,"1,795"
+-0.231,2018.0,NY14,-0.41,29925,"crowley, joseph",D,-0.605,federal:house,NY,115.0,House,"CROWLEY, Joseph",-0.41200000000000003,-69.85749,0.92443,-0.509,joseph crowley,"1,355"
+1.213,2018.0,WI01,0.556,29939,"ryan, paul d.",R,1.072,federal:house,WI,115.0,House,"RYAN, Paul D.",0.556,-7.06452,0.76207,0.31,paul ryan,"18,376"
+-1.255,2018.0,WIS18,-0.534,29940,"baldwin, tammy",D,,federal:senate,WI,116.0,Senate,"BALDWIN, Tammy",-0.495,-120.97978,0.7982899999999999,-0.392,tammy baldwin,724
+-0.9079999999999999,2018.0,SC06,-0.465,39301,"clyburn, james e.",D,-0.46799999999999997,federal:house,SC,116.0,House,"CLYBURN, James Enos",-0.46399999999999997,-26.05578,0.96235,-0.381,jim clyburn,"4,040"
+0.9229999999999999,2018.0,VA06,0.495,39308,"goodlatte, robert w.",R,0.767,federal:house,VA,115.0,House,"GOODLATTE, Robert William",0.496,-83.84175,0.9154399999999999,0.585,bob goodlatte,"1,533"
+-1.237,2018.0,MNS18,-0.242,40700,"klobuchar, amy",D,-1.149,federal:senate,MN,116.0,Senate,"KLOBUCHAR, Amy",-0.28,-128.41246999999998,0.70136,-0.485,amy klobuchar,"5,917"
+-1.237,2018.0,MOS18,-0.14400000000000002,40701,"mccaskill, claire",D,-1.254,federal:senate,MO,115.0,Senate,"McCASKILL, Claire",-0.14300000000000002,-86.08537,0.8435600000000001,-0.152,claire mccaskill,"4,524"
+-1.23,2018.0,MTS18,-0.21600000000000003,40702,"tester, jon",D,-1.22,federal:senate,MT,116.0,Senate,"TESTER, Jon",-0.217,-73.21115,0.86984,-0.243,jon tester,960
+-0.7709999999999999,2018.0,PAS18,-0.297,40703,"casey, robert p jr",D,-0.948,federal:senate,PA,116.0,Senate,"CASEY, Robert (Bob), Jr.",-0.312,-89.6,0.84659,-0.332,bob casey jr,"1,600"
+-1.052,2018.0,RIS18,-0.40700000000000003,40704,"whitehouse, sheldon ii",D,-1.038,federal:senate,RI,116.0,Senate,"WHITEHOUSE, Sheldon",-0.359,-98.22405,0.8200200000000001,-0.297,sheldon whitehouse,"1,878"
+1.185,2018.0,TNS18,0.39299999999999996,40705,"corker, robert p jr",R,1.013,federal:senate,TN,115.0,Senate,"CORKER, Robert (Bob)",0.395,-76.78647,0.85816,0.5,bob corker,"3,705"
+1.112,2018.0,WYS18,0.529,40707,"barrasso, john a",R,0.863,federal:senate,WY,116.0,Senate,"BARRASSO, John A.",0.54,-27.79516,0.94965,0.603,john barrasso,"4,450"
+-0.42700000000000005,2018.0,WVS18,-0.061,40915,"manchin iii, joe",D,-0.261,federal:senate,WV,116.0,Senate,"MANCHIN, Joe, III",-0.055999999999999994,-50.984159999999996,0.90861,-0.048,joe manchin,"3,771"
+1.344,2018.0,WIS18,1.0,41111,"johnson, ronald harold",R,1.3319999999999999,federal:senate,WI,116.0,Senate,"JOHNSON, Ron",0.605,-44.37543,0.9188,0.599,ron johnson,"3,445"
+-0.7509999999999999,2018.0,MES18,-0.152,41300,"king, angus stanley jr",D,-1.008,federal:senate,ME,116.0,Senate,"KING, Angus Stanley, Jr.",-0.154,-59.39261,0.8954799999999999,-0.16,angus king,"2,951"
+-1.386,2018.0,MAS18,-0.765,41301,"warren, elizabeth",D,-1.525,federal:senate,MA,116.0,Senate,"WARREN, Elizabeth",-0.77,-11.74911,0.9610799999999999,-0.7979999999999999,elizabeth warren,"12,793"
+1.294,2018.0,TXS18,0.848,41304,"cruz, rafael edward ted",R,1.391,federal:senate,TX,116.0,Senate,"CRUZ, Rafael Edward (Ted)",0.818,-37.546929999999996,0.92916,0.835,ted cruz,"19,226"
+-1.0659999999999998,2018.0,VAS18,-0.23600000000000002,41305,"kaine, timothy michael",D,-1.1520000000000001,federal:senate,VA,116.0,Senate,"KAINE, Timothy Michael (Tim)",-0.24100000000000002,-73.35083,0.8703,-0.25,tim kaine,"4,794"
+-0.995,2018.0,CAS18,-0.265,49300,"feinstein, dianne",D,-0.9329999999999999,federal:senate,CA,116.0,Senate,"FEINSTEIN, Dianne",-0.267,-66.77838,0.8832700000000001,-0.259,dianne feinstein,"4,029"
+,2018.0,DE01,,H6DE00214,"walker, scott",R,,federal:house,DE,,,,,,,,scott walker,"5,730"
+,2018.0,NV03,,H8NV03168,"weiss, michael",D,-1.71,federal:house,NV,,,,,,,,michael weiss,"1,723"
+,2018.0,AZS18,,S8AZ00247,"arpaio, joe",R,1.396,federal:senate,AZ,,,,,,,,joe arpaio,"1,633"
+,2018.0,FLS18,,S8FL00273,"scott, rick",R,1.081,federal:senate,FL,,,,,,,,rick scott,"3,034"
+,2018.0,NMS18,,S8NM00226,"johnson, gary",I,1.37,federal:senate,NM,,,,,,,,gary johnson,"2,129"
+,,,,1072,,,,,,5.0,House,"BROOKS, David",0.726,-17.53455,0.8859999999999999,0.7240000000000001,david brooks,871
+,,,,1232,,,,,,5.0,House,"BULLOCK, Stephen",0.371,-41.69753,0.7020000000000001,0.37,steve bullock,"1,027"
+,,,,6509,,,,,,22.0,Senate,"MILLER, Stephen Decatur",0.111,-81.90545999999999,0.785,0.128,stephen miller,"1,462"
+,,,,5177,,,,,,37.0,Senate,"KENNEDY, Anthony",-0.24600000000000002,-116.63595,0.737,-0.382,anthony kennedy,954
+,,,,6918,,,,,,50.0,House,"NICHOLS, John",0.337,-42.99091,0.76,0.33299999999999996,john nichols,"1,981"
+,,,,99902,,,,,,88.0,President,"KENNEDY, John Fitzgerald",-0.47200000000000003,-14.86496,0.919,-0.39799999999999996,john f kennedy,"1,473"
+,,,,10622,,,,,,91.0,House,"RUMSFELD, Donald Henry",0.369,-134.3512,0.696,0.35100000000000003,donald rumsfeld,"1,463"
+,,,,99904,,,,,,93.0,President,"NIXON, Richard Milhous",0.552,-137.06138,0.708,0.162,richard nixon,"1,615"
+,,,,99912,,,,,,115.0,President,"TRUMP, Donald John",,,,,donald trump,"232,676"
+,,,,21950,,,,,,116.0,House,"OMAR, Ilhan",-0.28,-51.18888,0.93201,-0.281,ilhan omar,"1,855"
+,,,,41902,,,,,,116.0,Senate,"ROMNEY, Willard Mitt (Mitt)",0.39399999999999996,-69.333,0.87802,0.39399999999999996,mitt romney,"28,435"
+,,,,,,,,,,,,,,,,,nicolle wallace,"17,721"
+,,,,,,,,,,,,,,,,,eugene robinson,"16,151"
+,,,,,,,,,,,,,,,,,david gregory,"15,664"
+,,,,,,,,,,,,,,,,,sean spicer,"13,877"
+,,,,,,,,,,,,,,,,,john r bolton,"12,911"
+,,,,,,,,,,,,,,,,,david gergen,"12,883"
+,,,,,,,,,,,,,,,,,robert mueller,"12,831"
+,,,,,,,,,,,,,,,,,christopher michael cillizza,"11,824"
+,,,,,,,,,,,,,,,,,james comey,"11,367"
+,,,,,,,,,,,,,,,,,david corn,"10,726"
+,,,,,,,,,,,,,,,,,kirsten powers,"10,262"
+,,,,,,,,,,,,,,,,,mike barnicle,"10,255"
+,,,,,,,,,,,,,,,,,david axelrod,"9,936"
+,,,,,,,,,,,,,,,,,vladimir putin,"9,670"
+,,,,,,,,,,,,,,,,,jonathan capehart,"9,639"
+,,,,,,,,,,,,,,,,,anita decker breckenridge,"9,317"
+,,,,,,,,,,,,,,,,,han bennink,"9,171"
+,,,,,,,,,,,,,,,,,robert costa,"8,985"
+,,,,,,,,,,,,,,,,,howard fineman,"8,407"
+,,,,,,,,,,,,,,,,,kellyanne conway,"8,374"
+,,,,,,,,,,,,,,,,,catherine herridge,"8,318"
+,,,,,,,,,,,,,,,,,a b stoddard,"8,123"
+,,,,,,,,,,,,,,,,,sarah palin,"7,925"
+,,,,,,,,,,,,,,,,,jenna lee,"7,923"
+,,,,,,,,,,,,,,,,,kim jong-un,"7,891"
+,,,,,,,,,,,,,,,,,ana navarro,"7,803"
+,,,,,,,,,,,,,,,,,karen finney,"7,733"
+,,,,,,,,,,,,,,,,,paul begala,"7,661"
+,,,,,,,,,,,,,,,,,pete buttigieg,"7,587"
+,,,,,,,,,,,,,,,,,stephen moore,"7,379"
+,,,,,,,,,,,,,,,,,karlheinz kopf,"7,322"
+,,,,,,,,,,,,,,,,,kayleigh mcenany,"7,287"
+,,,,,,,,,,,,,,,,,jon meacham,"6,715"
+,,,,,,,,,,,,,,,,,ezra klein,"6,707"
+,,,,,,,,,,,,,,,,,juliette kayyem,"6,624"
+,,,,,,,,,,,,,,,,,anthony s fauci,"6,614"
+,,,,,,,,,,,,,,,,,alan dershowitz,"6,577"
+,,,,,,,,,,,,,,,,,april ryan,"6,537"
+,,,,,,,,,,,,,,,,,william kristol,"6,523"
+,,,,,,,,,,,,,,,,,carl cameron,"6,462"
+,,,,,,,,,,,,,,,,,david chalian,"6,462"
+,,,,,,,,,,,,,,,,,ryan lizza,"6,293"
+,,,,,,,,,,,,,,,,,ben ferguson,"6,175"
+,,,,,,,,,,,,,,,,,jay carney,"6,086"
+,,,,,,,,,,,,,,,,,jeff lord,"5,982"
+,,,,,,,,,,,,,,,,,benjamin netanyahu,"5,946"
+,,,,,,,,,,,,,,,,,luke russert,"5,605"
+,,,,,,,,,,,,,,,,,ann coulter,"5,576"
+,,,,,,,,,,,,,,,,,kennedy,"5,449"
+,,,,,,,,,,,,,,,,,joan walsh,"5,287"
+,,,,,,,,,,,,,,,,,stephen f hayes,"5,260"
+,,,,,,,,,,,,,,,,,larry sabato,"5,257"
+,,,,,,,,,,,,,,,,,john harwood,"5,174"
+,,,,,,,,,,,,,,,,,jeremy bash,"5,142"
+,,,,,,,,,,,,,,,,,josh earnest,"5,088"
+,,,,,,,,,,,,,,,,,paul manafort,"5,075"
+,,,,,,,,,,,,,,,,,jonathan alter,"5,032"
+,,,,,,,,,,,,,,,,,anthony scaramucci,"5,009"
+,,,,,,,,,,,,,,,,,john o brennan,"4,854"
+,,,,,,,,,,,,,,,,,carl bernstein,"4,816"
+,,,,,,,,,,,,,,,,,eric holder,"4,803"
+,,,,,,,,,,,,,,,,,bernard goldberg,"4,797"
+,,,,,,,,,,,,,,,,,jay sekulow,"4,783"
+,,,,,,,,,,,,,,,,,brett kavanaugh,"4,781"
+,,,,,,,,,,,,,,,,,douglas brinkley,"4,730"
+,,,,,,,,,,,,,,,,,dennis miller,"4,726"
+,,,,,,,,,,,,,,,,,e j dionne,"4,724"
+,,,,,,,,,,,,,,,,,heather nauert,"4,724"
+,,,,,,,,,,,,,,,,,mark steyn,"4,668"
+,,,,,,,,,,,,,,,,,isabel gemio,"4,659"
+,,,,,,,,,,,,,,,,,jamie colby,"4,629"
+,,,,,,,,,,,,,,,,,donna brazile,"4,618"
+,,,,,,,,,,,,,,,,,angela rye,"4,599"
+,,,,,,,,,,,,,,,,,william devane,"4,543"
+,,,,,,,,,,,,,,,,,mary katharine ham,"4,528"
+,,,,,,,,,,,,,,,,,michelle obama,"4,482"
+,,,,,,,,,,,,,,,,,austan goolsbee,"4,475"
+,,,,,,,,,,,,,,,,,malcolm nance,"4,468"
+,,,,,,,,,,,,,,,,,michael eric dyson,"4,320"
+,,,,,,,,,,,,,,,,,james clapper,"4,318"
+,,,,,,,,,,,,,,,,,richard n haass,"4,301"
+,,,,,,,,,,,,,,,,,dick morris,"4,257"
+,,,,,,,,,,,,,,,,,richard a fowler,"4,229"
+,,,,,,,,,,,,,,,,,david ignatius,"4,216"
+,,,,,,,,,,,,,,,,,john dean,"4,184"
+,,,,,,,,,,,,,,,,,sebastian gorka,"4,173"
+,,,,,,,,,,,,,,,,,touré,"4,155"
+,,,,,,,,,,,,,,,,,david frum,"4,121"
+,,,,,,,,,,,,,,,,,michael isikoff,"4,095"
+,,,,,,,,,,,,,,,,,james rosen,"4,063"
+,,,,,,,,,,,,,,,,,robert baer,"4,042"
+,,,,,,,,,,,,,,,,,jared kushner,"4,036"
+,,,,,,,,,,,,,,,,,james carville,"3,978"
+,,,,,,,,,,,,,,,,,isha sesay,"3,961"
+,,,,,,,,,,,,,,,,,dzhokhar a tsarnaev,"3,938"
+,,,,,,,,,,,,,,,,,melania trump,"3,920"
+,,,,,,,,,,,,,,,,,jason a johnson,"3,919"
+,,,,,,,,,,,,,,,,,dana loesch,"3,847"
+,,,,,,,,,,,,,,,,,mark omara,"3,847"
+,,,,,,,,,,,,,,,,,steven mnuchin,"3,842"
+,,,,,,,,,,,,,,,,,joe trippi,"3,831"
+,,,,,,,,,,,,,,,,,jennifer rubin,"3,758"
+,,,,,,,,,,,,,,,,,michelle malkin,"3,749"
+,,,,,,,,,,,,,,,,,michael mcfaul,"3,729"
+,,,,,,,,,,,,,,,,,tom steyer,"3,709"
+,,,,,,,,,,,,,,,,,sunny hostin,"3,669"
+,,,,,,,,,,,,,,,,,donald trump jr,"3,667"
+,,,,,,,,,,,,,,,,,stephen k bannon,"3,643"
+,,,,,,,,,,,,,,,,,marie harf,"3,638"
+,,,,,,,,,,,,,,,,,susan page,"3,636"
+,,,,,,,,,,,,,,,,,rex w tillerson,"3,606"
+,,,,,,,,,,,,,,,,,michael moore,"3,524"
+,,,,,,,,,,,,,,,,,erick erickson,"3,502"
+,,,,,,,,,,,,,,,,,corey lewandowski,"3,499"
+,,,,,,,,,,,,,,,,,brodus clay,"3,484"
+,,,,,,,,,,,,,,,,,charlie sykes,"3,476"
+,,,,,,,,,,,,,,,,,jonathan nolan,"3,434"
+,,,,,,,,,,,,,,,,,michael hayden,"3,429"
+,,,,,,,,,,,,,,,,,frances townsend,"3,424"
+,,,,,,,,,,,,,,,,,dana milbank,"3,417"
+,,,,,,,,,,,,,,,,,steven rattner,"3,413"
+,,,,,,,,,,,,,,,,,hugh hewitt,"3,405"
+,,,,,,,,,,,,,,,,,keith morrison,"3,399"
+,,,,,,,,,,,,,,,,,amanda carpenter,"3,341"
+,,,,,,,,,,,,,,,,,jeffrey goldberg,"3,334"
+,,,,,,,,,,,,,,,,,susan rice,"3,333"
+,,,,,,,,,,,,,,,,,gordon g chang,"3,303"
+,,,,,,,,,,,,,,,,,mollie hemingway,"3,247"
+,,,,,,,,,,,,,,,,,frank luntz,"3,242"
+,,,,,,,,,,,,,,,,,neera tanden,"3,231"
+,,,,,,,,,,,,,,,,,charlie dent,"3,217"
+,,,,,,,,,,,,,,,,,vadim gluzman,"3,207"
+,,,,,,,,,,,,,,,,,bob woodward,"3,194"
+,,,,,,,,,,,,,,,,,eddie glaude,"3,166"
+,,,,,,,,,,,,,,,,,mercedes schlapp,"3,152"
+,,,,,,,,,,,,,,,,,david cay johnston,"3,143"
+,,,,,,,,,,,,,,,,,charles m blow,"3,109"
+,,,,,,,,,,,,,,,,,katty kay,"3,098"
+,,,,,,,,,,,,,,,,,lori greiner,"3,096"
+,,,,,,,,,,,,,,,,,edward snowden,"3,091"
+,,,,,,,,,,,,,,,,,jvee casio,"3,081"
+,,,,,,,,,,,,,,,,,roger stone,"3,076"
+,,,,,,,,,,,,,,,,,max boot,"3,070"
+,,,,,,,,,,,,,,,,,john f kelly,"3,069"
+,,,,,,,,,,,,,,,,,jon stewart,"3,054"
+,,,,,,,,,,,,,,,,,beto orourke,"3,047"
+,,,,,,,,,,,,,,,,,lis wiehl,"2,999"
+,,,,,,,,,,,,,,,,,cenk uygur,"2,997"
+,,,,,,,,,,,,,,,,,julián castro,"2,975"
+,,,,,,,,,,,,,,,,,richard grenell,"2,965"
+,,,,,,,,,,,,,,,,,kathleen sebelius,"2,953"
+,,,,,,,,,,,,,,,,,patrick caddell,"2,941"
+,,,,,,,,,,,,,,,,,neal katyal,"2,935"
+,,,,,,,,,,,,,,,,,ben stein,"2,927"
+,,,,,,,,,,,,,,,,,frank bruni,"2,853"
+,,,,,,,,,,,,,,,,,joe theismann,"2,835"
+,,,,,,,,,,,,,,,,,tim williams,"2,826"
+,,,,,,,,,,,,,,,,,patti ann browne,"2,824"
+,,,,,,,,,,,,,,,,,margaret hoover,"2,812"
+,,,,,,,,,,,,,,,,,ryan mcdonough,"2,792"
+,,,,,,,,,,,,,,,,,benjamin crump,"2,789"
+,,,,,,,,,,,,,,,,,jen psaki,"2,787"
+,,,,,,,,,,,,,,,,,zoraida sambolin,"2,774"
+,,,,,,,,,,,,,,,,,jack cafferty,"2,769"
+,,,,,,,,,,,,,,,,,margaret nagle,"2,759"
+,,,,,,,,,,,,,,,,,jon huntsman jr,"2,739"
+,,,,,,,,,,,,,,,,,peter bergen,"2,737"
+,,,,,,,,,,,,,,,,,josh barro,"2,725"
+,,,,,,,,,,,,,,,,,jason miller,"2,719"
+,,,,,,,,,,,,,,,,,k t mcfarland,"2,700"
+,,,,,,,,,,,,,,,,,bill maher,"2,677"
+,,,,,,,,,,,,,,,,,rush limbaugh,"2,666"
+,,,,,,,,,,,,,,,,,joanne nosuchinsky,"2,644"
+,,,,,,,,,,,,,,,,,jacob soboroff,"2,643"
+,,,,,,,,,,,,,,,,,james mattis,"2,630"
+,,,,,,,,,,,,,,,,,george will,"2,629"
+,,,,,,,,,,,,,,,,,jonah goldberg,"2,623"
+,,,,,,,,,,,,,,,,,tom selleck,"2,622"
+,,,,,,,,,,,,,,,,,nicholas kristof,"2,615"
+,,,,,,,,,,,,,,,,,carlos lópez-cantera,"2,610"
+,,,,,,,,,,,,,,,,,ivanka trump,"2,595"
+,,,,,,,,,,,,,,,,,jackie kucinich,"2,583"
+,,,,,,,,,,,,,,,,,peter beinart,"2,573"
+,,,,,,,,,,,,,,,,,megalyn echikunwoke,"2,567"
+,,,,,,,,,,,,,,,,,hilary rosen,"2,517"
+,,,,,,,,,,,,,,,,,bob hope,"2,510"
+,,,,,,,,,,,,,,,,,maria timmer,"2,507"
+,,,,,,,,,,,,,,,,,drew pinsky,"2,499"
+,,,,,,,,,,,,,,,,,monika jaruzelska,"2,491"
+,,,,,,,,,,,,,,,,,dean obeidallah,"2,476"
+,,,,,,,,,,,,,,,,,stephen colbert,"2,462"
+,,,,,,,,,,,,,,,,,ruth bader ginsburg,"2,457"
+,,,,,,,,,,,,,,,,,jimmy fallon,"2,456"
+,,,,,,,,,,,,,,,,,steven clemons,"2,445"
+,,,,,,,,,,,,,,,,,felicity huffman,"2,441"
+,,,,,,,,,,,,,,,,,jim miklaszewski,"2,399"
+,,,,,,,,,,,,,,,,,jeh johnson,"2,386"
+,,,,,,,,,,,,,,,,,ruth marcus,"2,386"
+,,,,,,,,,,,,,,,,,mark mckinnon,"2,381"
+,,,,,,,,,,,,,,,,,keith boykin,"2,374"
+,,,,,,,,,,,,,,,,,michael beschloss,"2,343"
+,,,,,,,,,,,,,,,,,buck sexton,"2,318"
+,,,,,,,,,,,,,,,,,liz macdonald,"2,305"
+,,,,,,,,,,,,,,,,,wendy walsh,"2,304"
+,,,,,,,,,,,,,,,,,jill dougherty,"2,303"
+,,,,,,,,,,,,,,,,,ben rhodes,"2,300"
+,,,,,,,,,,,,,,,,,kendis gibson,"2,272"
+,,,,,,,,,,,,,,,,,alex trebek,"2,269"
+,,,,,,,,,,,,,,,,,juliet huddy,"2,267"
+,,,,,,,,,,,,,,,,,r nicholas burns,"2,224"
+,,,,,,,,,,,,,,,,,ron klain,"2,213"
+,,,,,,,,,,,,,,,,,neil gorsuch,"2,209"
+,,,,,,,,,,,,,,,,,michiel veenstra,"2,205"
+,,,,,,,,,,,,,,,,,david e sanger,"2,201"
+,,,,,,,,,,,,,,,,,mark zuckerberg,"2,186"
+,,,,,,,,,,,,,,,,,lisa bloom,"2,182"
+,,,,,,,,,,,,,,,,,titus welliver,"2,176"
+,,,,,,,,,,,,,,,,,lz granderson,"2,159"
+,,,,,,,,,,,,,,,,,daniel samper ospina,"2,146"
+,,,,,,,,,,,,,,,,,loretta lynch,"2,145"
+,,,,,,,,,,,,,,,,,timothy naftali,"2,145"
+,,,,,,,,,,,,,,,,,marie osmond,"2,142"
+,,,,,,,,,,,,,,,,,david petraeus,"2,137"
+,,,,,,,,,,,,,,,,,dan rather,"2,135"
+,,,,,,,,,,,,,,,,,robert gates,"2,114"
+,,,,,,,,,,,,,,,,,bret stephens,"2,108"
+,,,,,,,,,,,,,,,,,ezekiel emanuel,"2,089"
+,,,,,,,,,,,,,,,,,larry elder,"2,076"
+,,,,,,,,,,,,,,,,,dennis haysbert,"2,074"
+,,,,,,,,,,,,,,,,,thomas l friedman,"2,068"
+,,,,,,,,,,,,,,,,,devon weigel,"2,047"
+,,,,,,,,,,,,,,,,,preet bharara,"2,036"
+,,,,,,,,,,,,,,,,,keith ablow,"2,033"
+,,,,,,,,,,,,,,,,,amy holmes,"2,023"
+,,,,,,,,,,,,,,,,,antonin scalia,"2,008"
+,,,,,,,,,,,,,,,,,david bossie,"2,006"
+,,,,,,,,,,,,,,,,,julie roginsky,"2,002"
+,,,,,,,,,,,,,,,,,scottie nell hughes,"2,001"
+,,,,,,,,,,,,,,,,,osama bin laden,"1,999"
+,,,,,,,,,,,,,,,,,alicia menendez,"1,978"
+,,,,,,,,,,,,,,,,,aaron david miller,"1,975"
+,,,,,,,,,,,,,,,,,dana white,"1,973"
+,,,,,,,,,,,,,,,,,lawrence kudlow,"1,973"
+,,,,,,,,,,,,,,,,,bill cosby,"1,970"
+,,,,,,,,,,,,,,,,,evan mcmullin,"1,969"
+,,,,,,,,,,,,,,,,,george foreman,"1,961"
+,,,,,,,,,,,,,,,,,richard stengel,"1,955"
+,,,,,,,,,,,,,,,,,dan lothian,"1,947"
+,,,,,,,,,,,,,,,,,tom frieden,"1,944"
+,,,,,,,,,,,,,,,,,john hickenlooper,"1,943"
+,,,,,,,,,,,,,,,,,marisa tomei,"1,922"
+,,,,,,,,,,,,,,,,,adrienne janic,"1,918"
+,,,,,,,,,,,,,,,,,gloria allred,"1,911"
+,,,,,,,,,,,,,,,,,rutanya alda,"1,910"
+,,,,,,,,,,,,,,,,,earl hamner jr,"1,895"
+,,,,,,,,,,,,,,,,,jerry hoffmann,"1,873"
+,,,,,,,,,,,,,,,,,major garrett,"1,871"
+,,,,,,,,,,,,,,,,,ken starr,"1,868"
+,,,,,,,,,,,,,,,,,ashley monroe,"1,854"
+,,,,,,,,,,,,,,,,,grover norquist,"1,830"
+,,,,,,,,,,,,,,,,,rob marciano,"1,822"
+,,,,,,,,,,,,,,,,,christopher r hill,"1,812"
+,,,,,,,,,,,,,,,,,jeffrey epstein,"1,798"
+,,,,,,,,,,,,,,,,,ben shapiro,"1,797"
+,,,,,,,,,,,,,,,,,anna coren,"1,796"
+,,,,,,,,,,,,,,,,,goldie taylor,"1,794"
+,,,,,,,,,,,,,,,,,susan candiotti,"1,791"
+,,,,,,,,,,,,,,,,,colin powell,"1,790"
+,,,,,,,,,,,,,,,,,michael nutter,"1,788"
+,,,,,,,,,,,,,,,,,david cameron,"1,786"
+,,,,,,,,,,,,,,,,,chuck woolery,"1,784"
+,,,,,,,,,,,,,,,,,aji santoso,"1,774"
+,,,,,,,,,,,,,,,,,xi jinping,"1,760"
+,,,,,,,,,,,,,,,,,donald sterling,"1,757"
+,,,,,,,,,,,,,,,,,sally kohn,"1,757"
+,,,,,,,,,,,,,,,,,wendy sherman,"1,748"
+,,,,,,,,,,,,,,,,,victor davis hanson,"1,741"
+,,,,,,,,,,,,,,,,,julian assange,"1,728"
+,,,,,,,,,,,,,,,,,tony blinken,"1,720"
+,,,,,,,,,,,,,,,,,james g stavridis,"1,712"
+,,,,,,,,,,,,,,,,,rob oneill,"1,703"
+,,,,,,,,,,,,,,,,,ron fournier,"1,698"
+,,,,,,,,,,,,,,,,,joão mário,"1,696"
+,,,,,,,,,,,,,,,,,jay leno,"1,692"
+,,,,,,,,,,,,,,,,,roland martin,"1,688"
+,,,,,,,,,,,,,,,,,ash carter,"1,674"
+,,,,,,,,,,,,,,,,,kathy griffin,"1,671"
+,,,,,,,,,,,,,,,,,wendy davis,"1,671"
+,,,,,,,,,,,,,,,,,ann romney,"1,663"
+,,,,,,,,,,,,,,,,,christopher dickey,"1,657"
+,,,,,,,,,,,,,,,,,condoleezza rice,"1,657"
+,,,,,,,,,,,,,,,,,emmanuel macron,"1,656"
+,,,,,,,,,,,,,,,,,elena kagan,"1,646"
+,,,,,,,,,,,,,,,,,adam housley,"1,644"
+,,,,,,,,,,,,,,,,,benjamin jealous,"1,640"
+,,,,,,,,,,,,,,,,,eric trump,"1,640"
+,,,,,,,,,,,,,,,,,glenn greenwald,"1,638"
+,,,,,,,,,,,,,,,,,nischelle turner,"1,638"
+,,,,,,,,,,,,,,,,,sevyn streeter,"1,638"
+,,,,,,,,,,,,,,,,,wayne lapierre,"1,627"
+,,,,,,,,,,,,,,,,,howard davies,"1,621"
+,,,,,,,,,,,,,,,,,bernard mcguirk,"1,613"
+,,,,,,,,,,,,,,,,,meghan mccain,"1,605"
+,,,,,,,,,,,,,,,,,john yoo,"1,601"
+,,,,,,,,,,,,,,,,,bram moszkowicz,"1,592"
+,,,,,,,,,,,,,,,,,david s rohde,"1,592"
+,,,,,,,,,,,,,,,,,william bratton,"1,577"
+,,,,,,,,,,,,,,,,,nancy grace,"1,572"
+,,,,,,,,,,,,,,,,,tony perkins,"1,567"
+,,,,,,,,,,,,,,,,,oprah winfrey,"1,566"
+,,,,,,,,,,,,,,,,,mary matalin,"1,557"
+,,,,,,,,,,,,,,,,,sarah haskins,"1,556"
+,,,,,,,,,,,,,,,,,nora berra,"1,554"
+,,,,,,,,,,,,,,,,,sam seder,"1,551"
+,,,,,,,,,,,,,,,,,mark geragos,"1,549"
+,,,,,,,,,,,,,,,,,brian fallon,"1,539"
+,,,,,,,,,,,,,,,,,matthew davis,"1,537"
+,,,,,,,,,,,,,,,,,harvey levin,"1,522"
+,,,,,,,,,,,,,,,,,david clarke,"1,516"
+,,,,,,,,,,,,,,,,,david plouffe,"1,512"
+,,,,,,,,,,,,,,,,,dinesh dsouza,"1,512"
+,,,,,,,,,,,,,,,,,l brent bozell jr,"1,510"
+,,,,,,,,,,,,,,,,,bashar al-assad,"1,503"
+,,,,,,,,,,,,,,,,,mike murphy,"1,503"
+,,,,,,,,,,,,,,,,,amy walter,"1,498"
+,,,,,,,,,,,,,,,,,ingrid van bergen,"1,496"
+,,,,,,,,,,,,,,,,,bill burton,"1,492"
+,,,,,,,,,,,,,,,,,marie l yovanovitch,"1,490"
+,,,,,,,,,,,,,,,,,doris kearns goodwin,"1,489"
+,,,,,,,,,,,,,,,,,alyssa milano,"1,482"
+,,,,,,,,,,,,,,,,,sharron davies,"1,482"
+,,,,,,,,,,,,,,,,,vittorio feltri,"1,474"
+,,,,,,,,,,,,,,,,,peter schweizer,"1,470"
+,,,,,,,,,,,,,,,,,joe madison,"1,467"
+,,,,,,,,,,,,,,,,,paz padilla,"1,458"
+,,,,,,,,,,,,,,,,,r james woolsey jr,"1,449"
+,,,,,,,,,,,,,,,,,wolter kroes,"1,447"
+,,,,,,,,,,,,,,,,,joseph s lacob,"1,442"
+,,,,,,,,,,,,,,,,,robby mook,"1,438"
+,,,,,,,,,,,,,,,,,o j simpson,"1,437"
+,,,,,,,,,,,,,,,,,clarence page,"1,430"
+,,,,,,,,,,,,,,,,,henk poort,"1,428"
+,,,,,,,,,,,,,,,,,mahmoud ahmadinejad,"1,418"
+,,,,,,,,,,,,,,,,,mehmet oz,"1,418"
+,,,,,,,,,,,,,,,,,jennifer aniston,"1,414"
+,,,,,,,,,,,,,,,,,alex ferrer,"1,413"
+,,,,,,,,,,,,,,,,,zuhdi jasser,"1,413"
+,,,,,,,,,,,,,,,,,harvey weinstein,"1,403"
+,,,,,,,,,,,,,,,,,cate edwards,"1,402"
+,,,,,,,,,,,,,,,,,thomas mcguane,"1,400"
+,,,,,,,,,,,,,,,,,franklin graham,"1,398"
+,,,,,,,,,,,,,,,,,elizabeth gutiérrez,"1,397"
+,,,,,,,,,,,,,,,,,anne nurmi,"1,391"
+,,,,,,,,,,,,,,,,,michael mukasey,"1,381"
+,,,,,,,,,,,,,,,,,ana marie cox,"1,378"
+,,,,,,,,,,,,,,,,,katrina vanden heuvel,"1,377"
+,,,,,,,,,,,,,,,,,nina easton,"1,375"
+,,,,,,,,,,,,,,,,,ryan reynolds,"1,375"
+,,,,,,,,,,,,,,,,,michelle bernard,"1,362"
+,,,,,,,,,,,,,,,,,christine odonnell,"1,344"
+,,,,,,,,,,,,,,,,,stanis?aw mikulski,"1,343"
+,,,,,,,,,,,,,,,,,gavin mcinnes,"1,340"
+,,,,,,,,,,,,,,,,,chrystia freeland,"1,339"
+,,,,,,,,,,,,,,,,,daniel pfeiffer,"1,338"
+,,,,,,,,,,,,,,,,,mark rathbun,"1,337"
+,,,,,,,,,,,,,,,,,andrew gillum,"1,335"
+,,,,,,,,,,,,,,,,,david weigel,"1,324"
+,,,,,,,,,,,,,,,,,attilio tesser,"1,323"
+,,,,,,,,,,,,,,,,,dann huff,"1,319"
+,,,,,,,,,,,,,,,,,theresa may,"1,319"
+,,,,,,,,,,,,,,,,,jacqueline bracamontes,"1,311"
+,,,,,,,,,,,,,,,,,hassan rouhani,"1,304"
+,,,,,,,,,,,,,,,,,pope francis,"1,287"
+,,,,,,,,,,,,,,,,,jes macallan,"1,286"
+,,,,,,,,,,,,,,,,,omarosa manigault,"1,285"
+,,,,,,,,,,,,,,,,,grzegorz braun,"1,283"
+,,,,,,,,,,,,,,,,,kevin chamberlin,"1,281"
+,,,,,,,,,,,,,,,,,agnes baltsa,"1,278"
+,,,,,,,,,,,,,,,,,arne duncan,"1,276"
+,,,,,,,,,,,,,,,,,tarique rahman,"1,273"
+,,,,,,,,,,,,,,,,,valerie jarrett,"1,268"
+,,,,,,,,,,,,,,,,,boris johnson,"1,267"
+,,,,,,,,,,,,,,,,,bernard kerik,"1,265"
+,,,,,,,,,,,,,,,,,norah odonnell,"1,262"
+,,,,,,,,,,,,,,,,,burghart klaussner,"1,261"
+,,,,,,,,,,,,,,,,,peggy noonan,"1,258"
+,,,,,,,,,,,,,,,,,brad wall,"1,257"
+,,,,,,,,,,,,,,,,,zane,"1,257"
+,,,,,,,,,,,,,,,,,jean-paul salomé,"1,252"
+,,,,,,,,,,,,,,,,,jose baez,"1,250"
+,,,,,,,,,,,,,,,,,jon cryer,"1,249"
+,,,,,,,,,,,,,,,,,angela merkel,"1,247"
+,,,,,,,,,,,,,,,,,kathleen aerts,"1,242"
+,,,,,,,,,,,,,,,,,theresa caputo,"1,240"
+,,,,,,,,,,,,,,,,,valérie lemercier,"1,240"
+,,,,,,,,,,,,,,,,,cecile richards,"1,224"
+,,,,,,,,,,,,,,,,,mark kelly,"1,219"
+,,,,,,,,,,,,,,,,,cornel west,"1,217"
+,,,,,,,,,,,,,,,,,peter hamby,"1,216"
+,,,,,,,,,,,,,,,,,marians pahars,"1,213"
+,,,,,,,,,,,,,,,,,bill gates,"1,208"
+,,,,,,,,,,,,,,,,,betsy devos,"1,207"
+,,,,,,,,,,,,,,,,,bob rae,"1,199"
+,,,,,,,,,,,,,,,,,joy bryant,"1,197"
+,,,,,,,,,,,,,,,,,ian bremmer,"1,193"
+,,,,,,,,,,,,,,,,,john zarrella,"1,192"
+,,,,,,,,,,,,,,,,,norman lamb,"1,192"
+,,,,,,,,,,,,,,,,,ivan vladislavic,"1,191"
+,,,,,,,,,,,,,,,,,jill biden,"1,187"
+,,,,,,,,,,,,,,,,,andrew card,"1,181"
+,,,,,,,,,,,,,,,,,mela lee,"1,181"
+,,,,,,,,,,,,,,,,,christophe hondelatte,"1,178"
+,,,,,,,,,,,,,,,,,jerome corsi,"1,178"
+,,,,,,,,,,,,,,,,,jon ralston,"1,178"
+,,,,,,,,,,,,,,,,,mark penn,"1,176"
+,,,,,,,,,,,,,,,,,prince william duke of cambridge,"1,171"
+,,,,,,,,,,,,,,,,,chris hansen,"1,170"
+,,,,,,,,,,,,,,,,,phil mcgraw,"1,164"
+,,,,,,,,,,,,,,,,,seth godin,"1,162"
+,,,,,,,,,,,,,,,,,kevin hassett,"1,159"
+,,,,,,,,,,,,,,,,,howard hesseman,"1,153"
+,,,,,,,,,,,,,,,,,karen tumulty,"1,151"
+,,,,,,,,,,,,,,,,,mark regev,"1,150"
+,,,,,,,,,,,,,,,,,jussie smollett,"1,149"
+,,,,,,,,,,,,,,,,,nigel farage,"1,146"
+,,,,,,,,,,,,,,,,,mark cuban,"1,141"
+,,,,,,,,,,,,,,,,,michael reagan,"1,140"
+,,,,,,,,,,,,,,,,,lawrence s stroll,"1,134"
+,,,,,,,,,,,,,,,,,sarah chalke,"1,132"
+,,,,,,,,,,,,,,,,,víctor trujillo,"1,127"
+,,,,,,,,,,,,,,,,,tamara holder,"1,123"
+,,,,,,,,,,,,,,,,,bob costas,"1,121"
+,,,,,,,,,,,,,,,,,john podesta,"1,121"
+,,,,,,,,,,,,,,,,,dan senor,"1,117"
+,,,,,,,,,,,,,,,,,eric bristow,"1,114"
+,,,,,,,,,,,,,,,,,timothy geithner,"1,113"
+,,,,,,,,,,,,,,,,,roger goodell,"1,112"
+,,,,,,,,,,,,,,,,,ronald perelman,"1,112"
+,,,,,,,,,,,,,,,,,scott rasmussen,"1,112"
+,,,,,,,,,,,,,,,,,anwar al-awlaki,"1,111"
+,,,,,,,,,,,,,,,,,oscar pistorius,"1,111"
+,,,,,,,,,,,,,,,,,john podhoretz,"1,110"
+,,,,,,,,,,,,,,,,,ted danson,"1,108"
+,,,,,,,,,,,,,,,,,licia albanese,"1,106"
+,,,,,,,,,,,,,,,,,david fahrenthold,"1,096"
+,,,,,,,,,,,,,,,,,kirsty wark,"1,096"
+,,,,,,,,,,,,,,,,,ron insana,"1,095"
+,,,,,,,,,,,,,,,,,toni garrido,"1,094"
+,,,,,,,,,,,,,,,,,mike jerrick,"1,093"
+,,,,,,,,,,,,,,,,,philip j crowley,"1,091"
+,,,,,,,,,,,,,,,,,alan oppenheimer,"1,087"
+,,,,,,,,,,,,,,,,,christian karembeu,"1,085"
+,,,,,,,,,,,,,,,,,hella joof,"1,085"
+,,,,,,,,,,,,,,,,,sherrod small,"1,083"
+,,,,,,,,,,,,,,,,,martin luther king jr,"1,080"
+,,,,,,,,,,,,,,,,,naomi,"1,079"
+,,,,,,,,,,,,,,,,,ytalo,"1,079"
+,,,,,,,,,,,,,,,,,joe arroyo,"1,075"
+,,,,,,,,,,,,,,,,,wilbur ross,"1,074"
+,,,,,,,,,,,,,,,,,nelson mandela,"1,071"
+,,,,,,,,,,,,,,,,,tony blair,"1,069"
+,,,,,,,,,,,,,,,,,randi weingarten,"1,067"
+,,,,,,,,,,,,,,,,,rich eisen,"1,067"
+,,,,,,,,,,,,,,,,,rob ford,"1,065"
+,,,,,,,,,,,,,,,,,bouabdellah tahri,"1,063"
+,,,,,,,,,,,,,,,,,jonas max ferris,"1,063"
+,,,,,,,,,,,,,,,,,laurence tribe,"1,057"
+,,,,,,,,,,,,,,,,,alex muyl,"1,056"
+,,,,,,,,,,,,,,,,,shefali oza,"1,054"
+,,,,,,,,,,,,,,,,,faith jenkins,"1,053"
+,,,,,,,,,,,,,,,,,michael weatherly,"1,049"
+,,,,,,,,,,,,,,,,,norman l eisen,"1,049"
+,,,,,,,,,,,,,,,,,jeffrey sachs,"1,048"
+,,,,,,,,,,,,,,,,,jorge ramos,"1,047"
+,,,,,,,,,,,,,,,,,dean cain,"1,041"
+,,,,,,,,,,,,,,,,,jennifer love hewitt,"1,041"
+,,,,,,,,,,,,,,,,,dakore akande,"1,040"
+,,,,,,,,,,,,,,,,,jim norton,"1,040"
+,,,,,,,,,,,,,,,,,josh hawley,"1,034"
+,,,,,,,,,,,,,,,,,jimmy kimmel,"1,033"
+,,,,,,,,,,,,,,,,,kevin martin,"1,032"
+,,,,,,,,,,,,,,,,,christine baranski,"1,026"
+,,,,,,,,,,,,,,,,,barbara bush,"1,024"
+,,,,,,,,,,,,,,,,,aisha hinds,"1,022"
+,,,,,,,,,,,,,,,,,beverley callard,"1,020"
+,,,,,,,,,,,,,,,,,dennis murphy,"1,016"
+,,,,,,,,,,,,,,,,,jelani cobb,"1,010"
+,,,,,,,,,,,,,,,,,glenn thrush,"1,002"
+,,,,,,,,,,,,,,,,,michelle fields,"1,000"
+,,,,,,,,,,,,,,,,,jean charest,999
+,,,,,,,,,,,,,,,,,mike papantonio,999
+,,,,,,,,,,,,,,,,,kim dickens,998
+,,,,,,,,,,,,,,,,,armaan kohli,997
+,,,,,,,,,,,,,,,,,lois lerner,993
+,,,,,,,,,,,,,,,,,shinz? abe,993
+,,,,,,,,,,,,,,,,,jamal khashoggi,992
+,,,,,,,,,,,,,,,,,conan obrien,988
+,,,,,,,,,,,,,,,,,xosé luís méndez ferrín,986
+,,,,,,,,,,,,,,,,,bowe bergdahl,985
+,,,,,,,,,,,,,,,,,lars larson,985
+,,,,,,,,,,,,,,,,,tavis smiley,983
+,,,,,,,,,,,,,,,,,joan rivers,978
+,,,,,,,,,,,,,,,,,dave zirin,977
+,,,,,,,,,,,,,,,,,david schmidtz,974
+,,,,,,,,,,,,,,,,,prince harry,971
+,,,,,,,,,,,,,,,,,veronica de la cruz,971
+,,,,,,,,,,,,,,,,,wael kfoury,971
+,,,,,,,,,,,,,,,,,jeffrey donovan,969
+,,,,,,,,,,,,,,,,,eric garcetti,967
+,,,,,,,,,,,,,,,,,rebecca quick,965
+,,,,,,,,,,,,,,,,,james gandolfini,963
+,,,,,,,,,,,,,,,,,conrad murray,962
+,,,,,,,,,,,,,,,,,charlie sheen,960
+,,,,,,,,,,,,,,,,,sara ganim,955
+,,,,,,,,,,,,,,,,,stuart stevens,955
+,,,,,,,,,,,,,,,,,giselle itié,954
+,,,,,,,,,,,,,,,,,kim zolciak,953
+,,,,,,,,,,,,,,,,,dannel malloy,952
+,,,,,,,,,,,,,,,,,frank rich,949
+,,,,,,,,,,,,,,,,,rafael pardo rueda,946
+,,,,,,,,,,,,,,,,,denis mcdonough,942
+,,,,,,,,,,,,,,,,,roy walker,941
+,,,,,,,,,,,,,,,,,william shatner,941
+,,,,,,,,,,,,,,,,,bonnie schneider,940
+,,,,,,,,,,,,,,,,,radu beligan,939
+,,,,,,,,,,,,,,,,,ron dermer,937
+,,,,,,,,,,,,,,,,,heinz conrads,934
+,,,,,,,,,,,,,,,,,rick warren,934
+,,,,,,,,,,,,,,,,,gene sperling,933
+,,,,,,,,,,,,,,,,,jonathan gruber,933
+,,,,,,,,,,,,,,,,,jack lew,932
+,,,,,,,,,,,,,,,,,richard belzer,930
+,,,,,,,,,,,,,,,,,eleanor clift,924
+,,,,,,,,,,,,,,,,,julie walters,922
+,,,,,,,,,,,,,,,,,alberto gonzales,921
+,,,,,,,,,,,,,,,,,karl-heinz feldkamp,919
+,,,,,,,,,,,,,,,,,ross douthat,918
+,,,,,,,,,,,,,,,,,mark leibovich,913
+,,,,,,,,,,,,,,,,,george clooney,912
+,,,,,,,,,,,,,,,,,marilyn mosby,912
+,,,,,,,,,,,,,,,,,aaron hernandez,909
+,,,,,,,,,,,,,,,,,michael mullen,909
+,,,,,,,,,,,,,,,,,michael oren,905
+,,,,,,,,,,,,,,,,,leigh-allyn baker,904
+,,,,,,,,,,,,,,,,,zbigniew brzezinski,904
+,,,,,,,,,,,,,,,,,joe klein,897
+,,,,,,,,,,,,,,,,,howard schultz,894
+,,,,,,,,,,,,,,,,,nikki glaser,891
+,,,,,,,,,,,,,,,,,alexander acosta,889
+,,,,,,,,,,,,,,,,,walter isaacson,889
+,,,,,,,,,,,,,,,,,celine dion,888
+,,,,,,,,,,,,,,,,,tracy byrnes,888
+,,,,,,,,,,,,,,,,,charlie pierce,887
+,,,,,,,,,,,,,,,,,bert koenders,883
+,,,,,,,,,,,,,,,,,johnny cash,882
+,,,,,,,,,,,,,,,,,vonda shepard,881
+,,,,,,,,,,,,,,,,,currie graham,879
+,,,,,,,,,,,,,,,,,eric boehlert,878
+,,,,,,,,,,,,,,,,,stephanie rawlings-blake,873
+,,,,,,,,,,,,,,,,,jason rezaian,872
+,,,,,,,,,,,,,,,,,sean penn,872
+,,,,,,,,,,,,,,,,,kim coles,871
+,,,,,,,,,,,,,,,,,tommy lee jones,869
+,,,,,,,,,,,,,,,,,martha reeves,868
+,,,,,,,,,,,,,,,,,montel williams,864
+,,,,,,,,,,,,,,,,,rini soemarno,864
+,,,,,,,,,,,,,,,,,jessi cruickshank,863
+,,,,,,,,,,,,,,,,,leleti khumalo,860
+,,,,,,,,,,,,,,,,,orrin evans,859
+,,,,,,,,,,,,,,,,,dave ramsey,858
+,,,,,,,,,,,,,,,,,maciej koz?owski,858
+,,,,,,,,,,,,,,,,,penn jillette,857
+,,,,,,,,,,,,,,,,,seth meyers,857
+,,,,,,,,,,,,,,,,,peter gilmore,853
+,,,,,,,,,,,,,,,,,bianca berlinguer,846
+,,,,,,,,,,,,,,,,,joan sanderson,846
+,,,,,,,,,,,,,,,,,paige turco,846
+,,,,,,,,,,,,,,,,,richard e besser,846
+,,,,,,,,,,,,,,,,,sinach,845
+,,,,,,,,,,,,,,,,,bastiaan ragas,843
+,,,,,,,,,,,,,,,,,bill nye,843
+,,,,,,,,,,,,,,,,,jerome allen,840
+,,,,,,,,,,,,,,,,,whoopi goldberg,840
+,,,,,,,,,,,,,,,,,rob reiner,839
+,,,,,,,,,,,,,,,,,sherrilyn ifill,839
+,,,,,,,,,,,,,,,,,bruce gaitsch,838
+,,,,,,,,,,,,,,,,,morgan radford,838
+,,,,,,,,,,,,,,,,,lara logan,837
+,,,,,,,,,,,,,,,,,joel osteen,834
+,,,,,,,,,,,,,,,,,madeleine albright,833
+,,,,,,,,,,,,,,,,,chris plante,830
+,,,,,,,,,,,,,,,,,gina carano,828
+,,,,,,,,,,,,,,,,,beth carvalho,826
+,,,,,,,,,,,,,,,,,michael wolff,826
+,,,,,,,,,,,,,,,,,j christopher stevens,822
+,,,,,,,,,,,,,,,,,rikard norling,821
+,,,,,,,,,,,,,,,,,aaron douglas,819
+,,,,,,,,,,,,,,,,,gary cohn,818
+,,,,,,,,,,,,,,,,,gonzalo rubalcaba,818
+,,,,,,,,,,,,,,,,,mohammad javad zarif,814
+,,,,,,,,,,,,,,,,,yannis stournaras,814
+,,,,,,,,,,,,,,,,,michael tomasky,813
+,,,,,,,,,,,,,,,,,hamid karzai,809
+,,,,,,,,,,,,,,,,,joe lockhart,809
+,,,,,,,,,,,,,,,,,kimberly dozier,807
+,,,,,,,,,,,,,,,,,recep tayyip erdo?an,807
+,,,,,,,,,,,,,,,,,peter thiel,806
+,,,,,,,,,,,,,,,,,françois hollande,805
+,,,,,,,,,,,,,,,,,frank j tipler,804
+,,,,,,,,,,,,,,,,,prince seeiso of lesotho,803
+,,,,,,,,,,,,,,,,,kaisei ichir?,802
+,,,,,,,,,,,,,,,,,justin trudeau,801
+,,,,,,,,,,,,,,,,,bert karlsson,800
+,,,,,,,,,,,,,,,,,gerald washington,800
+,,,,,,,,,,,,,,,,,james rubin,799
+,,,,,,,,,,,,,,,,,sergey lavrov,799
+,,,,,,,,,,,,,,,,,tamerlan tsarnaev,798
+,,,,,,,,,,,,,,,,,ryan stout,797
+,,,,,,,,,,,,,,,,,anthony cumia,795
+,,,,,,,,,,,,,,,,,bucie,794
+,,,,,,,,,,,,,,,,,laura bush,790
+,,,,,,,,,,,,,,,,,patrick warburton,790
+,,,,,,,,,,,,,,,,,brigitte gabriel,789
+,,,,,,,,,,,,,,,,,huma abedin,789
+,,,,,,,,,,,,,,,,,ramazan abdulatipov,785
+,,,,,,,,,,,,,,,,,michael chiklis,784
+,,,,,,,,,,,,,,,,,roberto gatto,781
+,,,,,,,,,,,,,,,,,james alan shelton,779
+,,,,,,,,,,,,,,,,,kevin spacey,778
+,,,,,,,,,,,,,,,,,jon culshaw,776
+,,,,,,,,,,,,,,,,,norman ornstein,775
+,,,,,,,,,,,,,,,,,david limbaugh,774
+,,,,,,,,,,,,,,,,,david shulkin,772
+,,,,,,,,,,,,,,,,,susanna reid,772
+,,,,,,,,,,,,,,,,,estelle,771
+,,,,,,,,,,,,,,,,,kevin rahm,771
+,,,,,,,,,,,,,,,,,paul krugman,771
+,,,,,,,,,,,,,,,,,fabio lanzoni,769
+,,,,,,,,,,,,,,,,,george stephanopoulos,769
+,,,,,,,,,,,,,,,,,phil robertson,766
+,,,,,,,,,,,,,,,,,matthew continetti,765
+,,,,,,,,,,,,,,,,,jordan sekulow,764
+,,,,,,,,,,,,,,,,,morgan freeman,764
+,,,,,,,,,,,,,,,,,shirley sherrod,764
+,,,,,,,,,,,,,,,,,george oleary,763
+,,,,,,,,,,,,,,,,,nana mouskouri,761
+,,,,,,,,,,,,,,,,,amanda knox,756
+,,,,,,,,,,,,,,,,,moon jae-in,756
+,,,,,,,,,,,,,,,,,dean norris,755
+,,,,,,,,,,,,,,,,,samuel l jackson,755
+,,,,,,,,,,,,,,,,,andy cohen,754
+,,,,,,,,,,,,,,,,,antoine fuqua,751
+,,,,,,,,,,,,,,,,,elena barolo,748
+,,,,,,,,,,,,,,,,,stephen a smith,747
+,,,,,,,,,,,,,,,,,ben bernanke,743
+,,,,,,,,,,,,,,,,,jack welch,743
+,,,,,,,,,,,,,,,,,reinhard bütikofer,743
+,,,,,,,,,,,,,,,,,wylie dufresne,743
+,,,,,,,,,,,,,,,,,mark wahlberg,740
+,,,,,,,,,,,,,,,,,rick ungar,740
+,,,,,,,,,,,,,,,,,shelby holliday,740
+,,,,,,,,,,,,,,,,,elizabeth edwards,739
+,,,,,,,,,,,,,,,,,humphrey bogart,738
+,,,,,,,,,,,,,,,,,pat quinn,738
+,,,,,,,,,,,,,,,,,ana mato,737
+,,,,,,,,,,,,,,,,,kim cattrall,734
+,,,,,,,,,,,,,,,,,thierry frémaux,733
+,,,,,,,,,,,,,,,,,eruviel ávila villegas,732
+,,,,,,,,,,,,,,,,,katrin göring-eckardt,732
+,,,,,,,,,,,,,,,,,tom hanks,731
+,,,,,,,,,,,,,,,,,chesley sullenberger,730
+,,,,,,,,,,,,,,,,,lacey chabert,730
+,,,,,,,,,,,,,,,,,nidal hasan,730
+,,,,,,,,,,,,,,,,,connell mcshane,729
+,,,,,,,,,,,,,,,,,stanley a mcchrystal,729
+,,,,,,,,,,,,,,,,,john yang,728
+,,,,,,,,,,,,,,,,,jonathan karl,728
+,,,,,,,,,,,,,,,,,qasem soleimani,726
+,,,,,,,,,,,,,,,,,julieta zylberberg,724
+,,,,,,,,,,,,,,,,,andrew breitbart,722
+,,,,,,,,,,,,,,,,,angie harmon,722
+,,,,,,,,,,,,,,,,,dave rubin,722
+,,,,,,,,,,,,,,,,,tamara keith,722
+,,,,,,,,,,,,,,,,,phi nhung,721
+,,,,,,,,,,,,,,,,,salah abdeslam,721
+,,,,,,,,,,,,,,,,,simona caparrini,721
+,,,,,,,,,,,,,,,,,christel alsos,720
+,,,,,,,,,,,,,,,,,henrique meirelles,717
+,,,,,,,,,,,,,,,,,ellen ratner,715
+,,,,,,,,,,,,,,,,,sharyl attkisson,714
+,,,,,,,,,,,,,,,,,boomer esiason,713
+,,,,,,,,,,,,,,,,,evelyn champagne king,713
+,,,,,,,,,,,,,,,,,chelsea clinton,712
+,,,,,,,,,,,,,,,,,ignasius jonan,707
+,,,,,,,,,,,,,,,,,harald welzer,706
+,,,,,,,,,,,,,,,,,fabian almazan,705
+,,,,,,,,,,,,,,,,,greg raymer,702
+,,,,,,,,,,,,,,,,,richard trumka,701
+,,,,,,,,,,,,,,,,,martin luther king iii,700
+,,,,,,,,,,,,,,,,,sally bercow,700
+,,,,,,,,,,,,,,,,,jennifer welter,698
+,,,,,,,,,,,,,,,,,rob long,698
+,,,,,,,,,,,,,,,,,simon pagenaud,698
+,,,,,,,,,,,,,,,,,william d cohan,697
+,,,,,,,,,,,,,,,,,muammar gaddafi,696
+,,,,,,,,,,,,,,,,,alex jones,695
+,,,,,,,,,,,,,,,,,seth macfarlane,695
+,,,,,,,,,,,,,,,,,maria hinojosa,694
+,,,,,,,,,,,,,,,,,samantha power,694
+,,,,,,,,,,,,,,,,,tony hayward,691
+,,,,,,,,,,,,,,,,,tony schwartz,691
+,,,,,,,,,,,,,,,,,abu bakr al-baghdadi,690
+,,,,,,,,,,,,,,,,,barry nelson,689
+,,,,,,,,,,,,,,,,,eric shinseki,688
+,,,,,,,,,,,,,,,,,beau biden,687
+,,,,,,,,,,,,,,,,,tiger woods,687
+,,,,,,,,,,,,,,,,,andrea begley,686
+,,,,,,,,,,,,,,,,,michael medved,685
+,,,,,,,,,,,,,,,,,jaime harrison,684
+,,,,,,,,,,,,,,,,,kenneth rogoff,684
+,,,,,,,,,,,,,,,,,pamela geller,684
+,,,,,,,,,,,,,,,,,alex maskey,681
+,,,,,,,,,,,,,,,,,farhat hached,681
+,,,,,,,,,,,,,,,,,timothy m dolan,681
+,,,,,,,,,,,,,,,,,tina andrews,681
+,,,,,,,,,,,,,,,,,franco foda,680
+,,,,,,,,,,,,,,,,,linda lindorff,679
+,,,,,,,,,,,,,,,,,mike tyson,679
+,,,,,,,,,,,,,,,,,jim clancy,678
+,,,,,,,,,,,,,,,,,robert korzeniowski,678
+,,,,,,,,,,,,,,,,,erin cardillo,677
+,,,,,,,,,,,,,,,,,eleni foureira,674
+,,,,,,,,,,,,,,,,,jose antonio vargas,674
+,,,,,,,,,,,,,,,,,hetty koes endang,673
+,,,,,,,,,,,,,,,,,dan povenmire,672
+,,,,,,,,,,,,,,,,,janet jackson,672
+,,,,,,,,,,,,,,,,,tina brown,672
+,,,,,,,,,,,,,,,,,paula zahn,671
+,,,,,,,,,,,,,,,,,leela samson,669
+,,,,,,,,,,,,,,,,,salvatore adamo,669
+,,,,,,,,,,,,,,,,,kelsey grammer,668
+,,,,,,,,,,,,,,,,,mariah carey,666
+,,,,,,,,,,,,,,,,,andrzej seweryn,665
+,,,,,,,,,,,,,,,,,jaymay,665
+,,,,,,,,,,,,,,,,,whitney houston,665
+,,,,,,,,,,,,,,,,,adam carolla,664
+,,,,,,,,,,,,,,,,,kate mara,663
+,,,,,,,,,,,,,,,,,martha stewart,663
+,,,,,,,,,,,,,,,,,daniela luján,661
+,,,,,,,,,,,,,,,,,mehdi hasan,661
+,,,,,,,,,,,,,,,,,nikol vantnerová,660
+,,,,,,,,,,,,,,,,,salman khan,658
+,,,,,,,,,,,,,,,,,will ferrell,658
+,,,,,,,,,,,,,,,,,sharon gilchrist,657
+,,,,,,,,,,,,,,,,,james p oneill,656
+,,,,,,,,,,,,,,,,,terry schappert,655
+,,,,,,,,,,,,,,,,,eric holcomb,654
+,,,,,,,,,,,,,,,,,jim messina,654
+,,,,,,,,,,,,,,,,,maud mulder,654
+,,,,,,,,,,,,,,,,,anne-marie slaughter,653
+,,,,,,,,,,,,,,,,,silvan zingg,653
+,,,,,,,,,,,,,,,,,lawrence summers,652
+,,,,,,,,,,,,,,,,,william h mcraven,651
+,,,,,,,,,,,,,,,,,felix magath,649
+,,,,,,,,,,,,,,,,,kaylee hartung,648
+,,,,,,,,,,,,,,,,,tom goodman-hill,646
+,,,,,,,,,,,,,,,,,esko kovero,645
+,,,,,,,,,,,,,,,,,jeff bezos,644
+,,,,,,,,,,,,,,,,,jim maceda,642
+,,,,,,,,,,,,,,,,,arthur caplan,640
+,,,,,,,,,,,,,,,,,gilmar dal pozzo,640
+,,,,,,,,,,,,,,,,,dean winters,639
+,,,,,,,,,,,,,,,,,james fallows,639
+,,,,,,,,,,,,,,,,,paulo roberto falcão,639
+,,,,,,,,,,,,,,,,,travis ford,639
+,,,,,,,,,,,,,,,,,anthony sullivan,638
+,,,,,,,,,,,,,,,,,larry the cable guy,638
+,,,,,,,,,,,,,,,,,matt bevin,638
+,,,,,,,,,,,,,,,,,sara duterte,638
+,,,,,,,,,,,,,,,,,tom rogan,637
+,,,,,,,,,,,,,,,,,lawrence korb,636
+,,,,,,,,,,,,,,,,,cynthia nixon,635
+,,,,,,,,,,,,,,,,,david brock,634
+,,,,,,,,,,,,,,,,,charles barkley,633
+,,,,,,,,,,,,,,,,,kokane,633
+,,,,,,,,,,,,,,,,,philip d murphy,633
+,,,,,,,,,,,,,,,,,kayla mueller,632
+,,,,,,,,,,,,,,,,,eldar sætre,631
+,,,,,,,,,,,,,,,,,amy matthews,630
+,,,,,,,,,,,,,,,,,danny danon,630
+,,,,,,,,,,,,,,,,,todd starnes,630
+,,,,,,,,,,,,,,,,,jeff hornacek,629
+,,,,,,,,,,,,,,,,,barbara walters,628
+,,,,,,,,,,,,,,,,,david linde,628
+,,,,,,,,,,,,,,,,,john fugelsang,627
+,,,,,,,,,,,,,,,,,lesley fera,626
+,,,,,,,,,,,,,,,,,thorsten flinck,626
+,,,,,,,,,,,,,,,,,jonathan chait,624
+,,,,,,,,,,,,,,,,,zanele kamagwaza-msibi,624
+,,,,,,,,,,,,,,,,,eric schneiderman,623
+,,,,,,,,,,,,,,,,,jane fonda,623
+,,,,,,,,,,,,,,,,,alan johnson,621
+,,,,,,,,,,,,,,,,,jerry seinfeld,621
+,,,,,,,,,,,,,,,,,lisa monaco,621
+,,,,,,,,,,,,,,,,,roger schawinski,621
+,,,,,,,,,,,,,,,,,faye tozer,620
+,,,,,,,,,,,,,,,,,magic johnson,620
+,,,,,,,,,,,,,,,,,sam harris,619
+,,,,,,,,,,,,,,,,,hayley westenra,618
+,,,,,,,,,,,,,,,,,spike lee,618
+,,,,,,,,,,,,,,,,,14th dalai lama,617
+,,,,,,,,,,,,,,,,,amanda drury,615
+,,,,,,,,,,,,,,,,,mary kissel,615
+,,,,,,,,,,,,,,,,,casey johnson,614
+,,,,,,,,,,,,,,,,,jillian michaels,614
+,,,,,,,,,,,,,,,,,anton vaino,613
+,,,,,,,,,,,,,,,,,robin williams,613
+,,,,,,,,,,,,,,,,,sonia manzano,613
+,,,,,,,,,,,,,,,,,martin crowe,612
+,,,,,,,,,,,,,,,,,lebron james,611
+,,,,,,,,,,,,,,,,,nick clegg,611
+,,,,,,,,,,,,,,,,,biz stone,610
+,,,,,,,,,,,,,,,,,michael scheuer,610
+,,,,,,,,,,,,,,,,,max hastings,609
+,,,,,,,,,,,,,,,,,harry connick jr,608
+,,,,,,,,,,,,,,,,,margot wallström,608
+,,,,,,,,,,,,,,,,,jane lynch,607
+,,,,,,,,,,,,,,,,,mohamed morsi,607
+,,,,,,,,,,,,,,,,,rosie perez,606
+,,,,,,,,,,,,,,,,,tyler perry,606
+,,,,,,,,,,,,,,,,,tim wise,605
+,,,,,,,,,,,,,,,,,howard stern,604
+,,,,,,,,,,,,,,,,,benjamin wittes,603
+,,,,,,,,,,,,,,,,,emil gilels,603
+,,,,,,,,,,,,,,,,,mozhan marnò,603
+,,,,,,,,,,,,,,,,,nora salinas,602
+,,,,,,,,,,,,,,,,,rod roddenberry,602
+,,,,C00548420  ,,,,,,,,,,,,,ben carson,"9,601"
+,,,,H4CT03025,,,,,,,,,,,,,michael d cohen,"7,303"
+,,,,H4MI04142,,,,,,,,,,,,,george zimmerman,"5,741"
+,,,,H0TX24027,,,,,,,,,,,,,steve schmidt,"5,625"
+,,,,H0MI05063  ,,,,,,,,,,,,,rick wilson,"4,387"
+,,,,N00024821  ,,,,,,,,,,,,,bill richardson,"2,727"
