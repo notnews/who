@@ -1,0 +1,3 @@
+11-07 14:43 INFO     Namespace(clean=False, config='search_names.cfg', debug=False, editlength=[(10, 1), (20, 2)], input='ARCHIVE_LFPATH', input_file_cols=['uniqid', 'text'], max_name=20, name_id='uniqid', name_search='search_name', namefile='../03_preprocess/deduped_augmented_clean_names.csv', outfile='search_results.csv', overwritten=False, processes=4, search_cols=['uniqid', 'n', 'match', 'start', 'end', 'count'], text='text')
+11-07 14:43 INFO     Setting up, please wait...
+11-07 14:43 INFO     Load name file: ../03_preprocess/deduped_augmented_clean_names.csv

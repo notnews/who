@@ -1,25 +1,30 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+from __future__ import absolute_import
+from __future__ import print_function
 import os
 import sys
 import argparse
 import logging
 import csv
+import six
+from six.moves import range
 try:
-    csv.field_size_limit(sys.maxsize)
+    #csv.field_size_limit(sys.maxsize)
+    csv.field_size_limit(1000000)
 except:
-    csv.field_size_limit(sys.maxint)
+    csv.field_size_limit(sys.maxsize)
 import time
 import signal
 
-from ConfigParser import ConfigParser
+from six.moves.configparser import ConfigParser
 from searchengines import (SearchMultipleKeywords, NewSearchMultipleKeywords,
                            RESULT_FIELDS)
 
 from multiprocessing import (Pool, TimeoutError)
 from multiprocessing.managers import SyncManager
-from Queue import Empty
+from queue import Empty
 
 import preprocess
 
@@ -104,7 +109,7 @@ def parse_command_line():
 
 
 def load_config(args=None):
-    if args is None or isinstance(args, basestring):
+    if args is None or isinstance(args, six.string_types):
         namespace = argparse.Namespace()
         if args is None:
             namespace.config = DEFAULT_CONFIG_FILE
@@ -266,7 +271,7 @@ if __name__ == "__main__":
             for i in range(args.max_name):
                 for a in RESULT_FIELDS:
                     if a in args.search_cols:
-                        h.append('name%d.%s' % (i + 1, a))
+                        h.append('name{0:d}.{1!s}'.format(i + 1, a))
             if 'count' in args.search_cols:
                 h.append('count')
             csvwriter.writerow(h)
