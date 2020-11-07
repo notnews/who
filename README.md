@@ -19,7 +19,7 @@ When merging the data, we take the most recent ideology scores even though the p
 * [Merge archive.org with voteview and DIME data](scripts/01_merge.ipynb)
 * [Figure 1: Dotplot of top 50 politicians](scripts/02_fig1_top50.ipynb)
 * [Figure 2: Dotplot of executive coverage vs. rest](scripts/03_fig2_executive_rest.R)
-* [Figure 3a: Density plot of ideology weighted by coverage using Voteview](scripts/04_fig3_density_plot_voteview.R)
+* [Figure 3a: Density plot of ideology weighted by coverage using Voteview](scripts/04_fig3_density_plot_voteview.ipynb)
 * [Figure 3b: Density plot of ideology weighted by coverage using DIME](scripts/05_fig3_density_plot_dime.ipynb)
 * [Figure 4a: Density plot of ideology weighted by coverage using Voteview by Channel](scripts/06_fig4_density_plot_voteview_channel.R)
 * [Figure 4b: Density plot of ideology weighted by coverage using DIME by Channel](scripts/07_fig4_density_plot_dime_channel.R)
