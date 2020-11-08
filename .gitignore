@@ -3,6 +3,7 @@ lit/
 
 # python
 */.ipynb_checkpoints/*
+*.pyc
 
 # mac
 .DS_Store
