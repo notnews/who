@@ -1,0 +1,432 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[titletoc,title]{appendix}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\definecolor{dark-red}{rgb}{0.75,0.10,0.10}
+\usepackage[margin=1in]{geometry}
+\usepackage[linkcolor=dark-red,
+            colorlinks=true,
+            urlcolor=blue,
+            pdfstartview={XYZ null null 1.00},
+            pdfpagemode=UseNone,
+            citecolor={dark-red},
+            pdftitle={Ideological Representation}]{hyperref}
+%\usepackage{biblatex}
+\usepackage{multibib}
+\usepackage{longtable}
+\usepackage{dcolumn}
+\usepackage{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper}               % This is 8.5x11 paper. Options are a4paper or a5paper or other...
+\usepackage{graphicx}                % Handles inclusion of major graphics formats and allows use of
+\usepackage{amsfonts,amssymb,amsbsy}
+\usepackage{amsxtra}
+\usepackage{natbib}
+\usepackage{verbatim}
+\setcitestyle{round,semicolon,aysep={},yysep={;}}
+\usepackage{setspace}        % Permits line spacing control. Options are \doublespacing, \onehalfspace
+\usepackage{sectsty}         % Permits control of section header styles
+\usepackage{lscape}
+\usepackage{fancyhdr}        % Permits header customization. See header section below.
+\usepackage{url}             % Correctly formats URLs with the \url{} tag
+\usepackage{fullpage}        %1-inch margins
+\usepackage{multirow}
+\usepackage{rotating}
+\setlength{\parindent}{3em}
+
+\usepackage[T1]{fontenc}
+\usepackage{bm}
+\usepackage{libertine}
+\usepackage{chngcntr}
+
+% Caption
+\usepackage[hang, font=small,skip=0pt, labelfont={bf}]{caption}
+\captionsetup[subtable]{font=small,skip=0pt}
+\usepackage{subcaption}
+
+% tt font issues
+% \renewcommand*{\ttdefault}{qcr}
+\renewcommand{\ttdefault}{pcr}
+
+\usepackage{lscape}
+\renewcommand{\textfraction}{0}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\floatpagefraction}{0.40}
+\setcounter{totalnumber}{5}
+\makeatletter
+\providecommand\phantomcaption{\caption@refstepcounter\@captype}
+\makeatother
+
+\title{Extreme Coverage? Which Politicians Are Covered in the Media?\\\vspace{10mm}}
+
+\author{Lucas Shen\thanks{He can be reached at \href{mailto:}{\texttt{}}.} \and Gaurav Sood\thanks{Gaurav can be reached at: \href{mailto:gsood07@gmail.com}{\texttt{gsood07@gmail.com}}.}}
+
+\begin{document}
+\maketitle
+
+\begin{comment}
+
+setwd(paste0(githubdir, "who/ms"))
+tools::texi2dvi("polarnews.tex", pdf = TRUE, clean = TRUE)
+setwd(basedir)
+
+\end{comment}
+
+\begin{abstract}
+Partisans think that supporters of both their party and the main opposing party are more ideologically extreme than they are \citep{Ahler2014, levendusky2015}.  These misperceptions may be a result of the media's tendency to cover extreme politicians or extreme statements by politicians. To examine the issue, we exploit a census of transcripts of prime-time news shows on seven prominent cable and network channels spanning 2012--2015. We supplement the analysis with additional data covering XX online news sources in the same time period. Results from both datasets sing in unison: if anything, there is a small moderation bias in who is covered, who is invited for interviews, and the statements that politician guests make on the record. Our results have implications for the media's role in the polarization of the electorate.
+\end{abstract}
+
+\clearpage
+\doublespace
+
+Partisans of the two main parties dislike and distrust supporters of the main opposing party \citep{iyengar2012,iyengar2015fear}. Sizable proportions of Democrats and Republicans report that they would be unhappy if their family member married someone who supported the main opposing party \citep{iyengar2012}.  Worse, partisans discriminate against opposing partisans even on impersonal issues \citep{iyengar2015fear}.
+
+This intense partisan antipathy is partly founded in mistaken beliefs about the policy positions of supporters of the opposing party. People think that the supporters of the opposing party are much more extreme than they are \citep{Ahler2014, levendusky2015}. By a much smaller margin, partisans also think that supporters of their own party are more extreme than they are \citep{Ahler2014, levendusky2015}.
+
+One potential explanation for these misperceptions is the biases in news media coverage of politics \citep{levendusky2015}. If the news media preferentially cover more ideologically extreme politicians or more extreme statements by politicians, readers may come to believe that the parties are more extreme than they actually are \citep{tversky1973availability, iyengar1990}.  People may also reason that those who support ideologically extreme politicians are themselves extreme. Thus, biases in media coverage may explain why people think partisans are more extreme than they are.
+
+The observed asymmetry in the degree of misperception between the own- and out-party is also potentially driven by features of media coverage. Partisan media outlets plausibly highlight more ideologically extreme politicians or more extreme statements of the opposing party more often than other media outlets. By the same token, partisan outlets may more frequently highlight less ideologically extreme politicians (and more centrist statements) of the party they support. The observed asymmetric pattern of misperception can be explained if partisans consume or trust the news media outlets that share their views, and biases in coverage are correlated with the partisan leaning of the outlet.
+
+It is also likely that any such biases are exacerbated by partisan motivated processing. Partisans plausibly discount ideologically extreme politicians of their own party as atypical, and reason that ideologically extreme politicians of the opposing party typify the opposing party. Such reasoning can lead partisans to believe that supporters of the opposing party are especially extreme.
+
+Correlation between partisan slant of the outlet and the frequency with which it covers ideologically extreme politicians of both parties may also help explain polarization of the behavior of political elites. Suppose that extremists are rewarded with greater coverage by like-minded partisan media, and only punished by uncongenial media, which the ``base'' doesn't watch. In such a media environment, politicians have incentives to make extreme statements and stake out extreme policy positions. The degree of bias towards extreme statements and politicians that media exhibit, therefore, has the potential to act as accelerant or brake on elite-driven polarization.
+
+In all, there are two hypotheses. First, the news media on average cover more extreme politicians and more extreme statements by politicians. Second, the extremity bias is correlated with the partisan leaning of the channel (show), with partisan channels more likely to cover more extreme politicians of the opposing party.  To assess the claims, we assemble a novel dataset containing the census of transcripts of prime-time news shows on seven prominent cable and network channels spanning 2012--2015. We supplement our primary dataset with two much larger datasets with less clear sampling frames----\textit{Newsbank} dataset containing 150,000 closed-caption news transcripts covering 255 shows and 50 channels, and the \textit{Lydia} dataset containing names of people referred to in more than 46 million news articles from 3,000 media sources. We first analyze biases in who is covered, who is invited, and which kinds of statements of the invited politicians are covered. Next, we analyze the extent to which an outlet's partisan slant is correlated with the tendency to cover more extreme politicians of the opposing party and more moderate politicians of the party it supports. We find that, if anything, there is a small moderation bias, with moderate politicians covered more.
+
+\section*{What Explains the Coverage of Politicians in the Media?}
+America famously has a preponderance of elected representatives. By an informal and incomplete count, as a resident of Austin, Texas, James Fishkin estimated that he could vote for 200 to 350 people \citep{fishkin1997}. His count is by no means atypical. For many of us, the roster of elected representatives we can vote for is extremely long. It includes the president, national and state legislators, county and state judges, various county, state, and local officials, including officials of the school board, utilities, and the transit authority.
+
+The potential number of politicians that the news media could cover is, however, yet larger.  Aside from elected officials, there are candidates for each position. And politicians who don't hold elected office right now but have in the past and will potentially in the future. Thus, at any given moment, the potential set of politicians that news media could cover probably runs into the tens of thousands.
+
+A variety of considerations apply as to how frequently various media outlets cover different politicians. Perhaps the foremost concern is the political power of the position---greater the power, greater the coverage. Thus, for instance, in the US the president likely gets more media coverage than any other politician. By the same token, the speaker of the house probably receives more attention than a junior member of Congress. We do not, however, expect a linear relationship between the political power of a position and coverage received by the person occupying the position. As \citet{gamson1994} notes, media tend to focus on a small number of individuals. And we expect people in a few powerful positions to gain most of the attention.
+
+While the difference in the power wielded by the president and a state legislator is clear, in many cases, the power differential is not clear. For instance, it is not clear if a governor is more powerful than say a US senator. Given a domain, the power gradient can be clearer, but it is hard to come up with a strict general ordering of politicians based on power. When the power gradient is not clear, we expect other features to determine the amount of media attention. As \citet{greenstein1965} notes, executive positions tend to be prominent in how children think about politics in America. And while how children think about politics may in itself be a consequence of biases in media coverage, some of the biases are fundamental to the conception of politics in the country, and to the extent that a competitive media industry focuses on people's biases, we expect people in executive positions to garner more coverage.
+
+Other than power, bias towards executive positions, and non-linearity in attention due to some biases in how news media are produced, some other factors may play a role in explaining coverage. Politicians who have been celebrities in the past plausibly get more attention. Politicians from larger states likely garner more attention from national media than smaller states. Other than that, better-looking politicians plausibly garner more attention. And at any particular time, politicians embroiled in a scandal are liable to get more attention. Given the focus on horse-race coverage of politics, and greater marketability of dramatic closely-fought elections, politicians fighting in competitive elections are liable to be covered more during the election season. And candidates with `surprising' results. Other demographic factors may play a role in determining coverage. And while the evidence suggests that women are covered about as often as they are present in the relevant population of politicians \citep{shor2015}, we conjecture that black politicians are more frequently covered than their representation in the relevant population of politicians.
+
+Lastly, we conjecture that the media cover more ideologically extreme politicians than less extreme politicians. Our conjecture is based on the intuition that more extreme politicians make more provocative statements that drive the narrative about the partisan conflict. Aside from the considerations that explain ecological trends in which politicians are covered more, partisan considerations likely explain variation in coverage across different news media sources. For instance, as \citet{puglisi2011} notes, partisan media cover scandals of opposing partisans more than scandals featuring leaders of their own party. We adorn this empirical finding with the conjecture that partisan media are more likely to cover more extreme opposing politicians.
+
+Having discussed some of the factors that plausibly explain media coverage, we note that the discussion is largely superfluous to our key aim in this essay: given a large set of politicians, the extent to which more ideologically extreme politicians within the set are covered more. Any such bias, if present, may happen due to confounding variables. For instance, if politicians in leadership positions tend to be more extreme \citep{jessee2010}, and if more powerful politicians are covered more, more extreme politicians will be covered more. And while we devote some attention to understanding and explaining any such imbalances, our key aim is describing the ideology of politicians who are covered.
+
+\section*{Representation of Representatives in the Media}
+Are more extreme politicians and more extreme statements by politicians covered more often?  We break the question into three estimands. The first is the extent to which ideologically extreme politicians are more frequently covered by various outlets. We measure coverage by counting references to politician names. We estimate relative extremity as the average difference in ideological extremity between the base sample and the frequency of references in the media. Our second estimand is the extent to which ideologically extreme politicians are invited as guests on various news shows and their speech covered. Invitees are a subset of total coverage of a politician but an important subset that deserves close attention. Looking at guests also allows us to measure coverage in a different way: share of words spoken. Our third estimand is the extent to which extreme statements by the invited guests are covered. For judging relative extremity of speech, we compare ideology of speech to speech on the house floor. For politicians for which we have data on both the house speech and television speech, we take fixed effects, to estimate how much more extreme their speech on the floor is compared to speech on television.
+
+\subsection*{Data}
+To answer the questions, we assembled a new dataset of 17,273 news transcripts. Our database has transcripts from a census of prime-time shows (32 different shows) on 7 major cable channels: PBS, CBS, NBC, ABC, FNC, CNN, and MSNBC over four years, 2012--2015 (see Appendix Table~\ref{tab:append_cable_transcripts_data_summary}).
+
+We augment our analysis with results from two much larger datasets with worse quality. The first supplementary dataset is the \textit{Newsbank} dataset containing 150,000 closed-caption news transcripts covering 255 shows and 50 channels (see \ref{cc_transcript_data} for details). Closed-caption transcripts are worse than actual transcripts because of transcription errors. Our second dataset is the \textit{Lydia} dataset containing names of people referred to in more than 46 million news articles from 3,000 media sources (see \ref{si_lydia_sum} for details). The \textit{Lydia} dataset is limited to just names of people gotten via Named Entity Recognition over the news corpus \citep{lloyd2005lydia}.
+
+Our analysis of supplementary datasets is limited by issues. We can measure citations to politicians in all three datasets, acknowledging that we measurement error would be greater in the supplementary datasets. In \textit{Newsbank}, the greater measurement error would come from misspellings. And in \textit{Lydia}, it would come from any issues with Named Entity Recognition. Our ability to understand who said what is yet more limited in our supplementary data. In \textit{Lydia}, it doesn't exist, and in \textit{Newsbank}, quotes are not preserved very well. So, we limit analysis of supplementary datasets to the frequency with which politicians are covered.
+
+\subsection*{Searching for Politicians}
+As noted above, the set of potential politicians that the media could cover is extremely vast. For computational reasons, we limit our search to politicians who have run for the presidency, the Congress, the Senate, and the governorship at least once since 2000, and all major party candidates who have ever run for the presidency since 1972. The sample includes state legislators and other local representatives who graduate to Congress or Governorship or run for those offices but excludes those who don't. We use the Database on Ideology, Money in Politics, and Elections \citep{bonica2013} to build our sample. In all, we have about 3,700 politicians. To find out how many politicians we missed (and their ideology), we manually coded 500 randomly selected transcripts. We find that we failed to discover less than XX\% of the politicians.
+
+Before searching, we rationalized the names using the Python library \href{https://pypi.org/project/nameparser/}{Nameparser}, splitting names into FirstName, MiddleInitial, LastName, Suffix, and Title. We fixed any errors in automated splitting by manually going through the names. Lastly, we appended a column of nicknames by which the politicians are popularly known.
+
+Next, we devised a method for searching for politician names. We started by reading 100 closed-caption transcripts. Expectedly, references to politicians had one of three structures: `FirstName MiddleName LastName', `Political Position LastName', and `Mr/Ms/Dr LastName'. (Table ~\ref{table:taba1} in ~\ref{si1} carries the prefixes we tried with each politician.) This served as our basic search criteria. We revised it in light of the following concerns: 1) spelling errors,  2) hypocorism, 3) politicians with same names as other politicians, and 4) politicians with same names as other famous people. We addressed these concerns by taking into account how to balance Type I and Type II errors. To account for spelling errors, we searched for strings that had a Levenshtein distance of 1, or a floor of 10\% of the length of the search string, whichever was higher. The exact distance chosen was based on an assessment of rates of false positive and negatives by search string length. To account for hypocorism\textemdash use of shorter or diminutive form of the given name, e.g., Bill Clinton instead of William Clinton, and for politicians popularly known by their middle names or diminutive form of their middle names, we looked up names by which politicians are popularly known and searched for these alternate names. (Table ~\ref{table:taba2} in ~\ref{si1} carries the names we tried for each politician name.)
+
+We deal with our inability to distinguish between politicians with the same name by eliminating them from the set of names we searched for. This means removing a few politicians who have the same first and last names, but also not searching for politicians who have the same position (say Senator) and the same last name. This is not a common problem in our sample. We deal with politicians who have same names as celebrities in two ways---we first eliminate politicians who share names with very famous celebrities, including, Michael Jackson, Deputy Secretary at the Department of Homeland Security between 2005 and 2007.
+
+For each of these politicians, we have campaign finance based estimates \citep{bonica2013}, and roll-call based estimates of ideology \citep{mccarty2006}. %We infer their gender using the first name. The Census Bureau makes available the proportion of people with a given name who were women in a given year. We exploit these data using the R package, \texttt{gender} \citep{mullen2015}. Given the gender distribution of names varies over time, rather than take gender distribution from the current year, we endow politicians with the age of 50. We also add data on their race using the R package \texttt{wru} \citep{khanna2016}.
+
+\section*{Results}
+As noted, for the main analyses, we limit ourselves to data from the news transcript database, leaving results from the closed caption news database and the Lydia database to the Appendix (see \ref{si_lydia_res}). On all the substantive points we discuss, data from all three sources yield remarkably similar insights, but we flag and contextualize differences where we find them.
+
+We start by analyzing who is covered. We then analyze an important subset of all coverage: invitations to talk on the program. Next, we analyze whether the bias is not in who is invited but what they are shown as saying.
+
+\subsection*{Who is Covered?}
+We start by plotting proportion of citations going to 50 most cited politicians (Figure \ref{fig:top50_transcripts}). As the figure reveals, the distribution has an extreme right skew---a few politicians get a majority of the citations. President Obama alone receives nearly XX\% of all citations. The five most cited politicians get XX\% of the total citations; for the top 10, XX\% of the citations; and for the top 50, XX\% of the total citations. (Results from the Newsbank data (see Figure \ref{fig:top50_newsbank}) and the Lydia data (see Figure \ref{fig:top50_lydia}) show a similar skew.)
+
+\begin{figure}[h]
+  \centering
+  \caption{Top 50 Politicians Cited in News}
+  \includegraphics[width=0.9\textwidth]{../figs/search/news_top50.pdf}
+  \label{fig:top50_transcripts}
+\end{figure}
+
+As Figure~\ref{fig:tv_guest_appearance_share_bylevel} also shows, politicians serving in executive offices, presidential candidates, and those serving in prominent legislative offices receive far more citations than ordinary legislators, be they state or national.
+
+Overall, there is a slight moderation bias (see Figure \ref{fig:transcripts_cfscore_density}). We see the same thing in \ref{fig:cfscore_density_newsbank} and \ref{fig:cfscore_density_lydia}.
+
+\begin{figure}[h]
+  \centering
+  \caption{Ideology of Cited Politicians Compared to Large Pool of Politicians}
+  \includegraphics[width=0.9\textwidth]{../figs/search/news_cfscore_density.pdf}
+  \label{fig:transcripts_cfscore_density}
+\end{figure}
+
+\subsection*{Who is Invited?}
+We plotted the ideology of the invited politicians alongside that of our sample of politicians (Figure \ref{fig:guest_weighted_density_cfscore_byparty}). The median politician in our sample of politicians is closer to the median Republican than Democrat. Whereas, the median politician cited in the news has an ideology that is close to the median Democrat in our sample. To convey the point more clearly, we superimpose the density of the ideological distribution in the politician data we searched for over the density of ideological distribution of citations. (For the share of speech by Republicans and Democrats by channel, see \ref{tab:wc_summ}.)
+
+\begin{figure}[h]
+  \centering
+  \caption{Distribution of Ideology of Guests Compared to Distribution of Ideology in Base Sample}
+  \includegraphics[width=\textwidth]{../figs/tv_guests/guest_weighted_density_cfscore_byparty.pdf}
+  \label{fig:guest_weighted_density_cfscore_byparty}
+\end{figure}
+
+To assess whether our results are driven by a particular channel, next, we plot the average ideology of the politician covered along with average ideology of the Democratic and Republican politician cited by show. As Figure \ref{fig:guest_weighted_density_cfscore_bychannel} shows, the averages are tighly clustered. And if at all there is a bias, it is towards covering more moderate politicians, especially less extreme Republicans.
+
+\begin{figure}[h]
+  \centering
+  \caption{Distribution of Ideology of Guests By Channel}
+  \includegraphics[width=\textwidth]{../figs/tv_guests/guest_weighted_density_cfscore_bychannel.pdf}
+  \label{fig:guest_weighted_density_cfscore_bychannel}
+\end{figure}
+
+\section*{Discussion}
+There are good reasons to be concerned about extremity bias in the media. It has been suggested that the news media plays up partisan discord by inviting extreme politicians, highlighting extreme statements by them, or just covering extreme politicians more frequently. It has also been suggested that this tendency is the greatest among cable news channels. Contrary to conventional wisdom, we find that there is, if anything, a moderation bias. We find that some of the moderation bias is due to the fact that politicians from the executive branch are covered more. And it is possible that if more extreme politicians sat in the executive branch, we would see different numbers. But what we also find is that when we control for the level of government, there is still a selection bias towards selecting moderate politicians. And moderate politicians are covered as making more moderate statements vis-a-vis their congressional record. There is some faint tendency for partisan outlets to cover more extreme politicians.
+
+It is possible that the extremity bias manifests itself not in coverage of politicians but non-politicians. This potentially rings true for guests. Extreme politicians may just want to come on as guests on `mainstream media.' And whatever politicians do come may want to cater to the preferences of their voter base and moderate their message. The other possibility is that we do not present data on how extreme politicians are covered. We have only data on what they are quoted as saying when they are invited as guests but we do not have much to say about how extreme politicians are more generally covered in the news media. But overall, the results are still compelling in that they are unexpected but consistent. Some of our results are corroborated by the results of the survey, where we again see a strong executive and popular politician bias.
+
+\clearpage
+
+\bibliographystyle{apsr}
+\bibliography{polarnews}
+\clearpage
+
+\clearpage
+\appendix
+\renewcommand{\thesection}{SI \arabic{section}}
+\setcounter{table}{0}\renewcommand\thetable{\thesection.\arabic{table}}
+\setcounter{figure}{0}\renewcommand\thefigure{\thesection.\arabic{figure}}
+\counterwithin{figure}{section}
+
+\begin{center}
+\Large{Supporting Information}
+\end{center}
+
+\section{Survey data}
+
+Because the answers to the politician recall survey questions were open-ended (respondents typed in names), the responses were quite ``noisy'' (in addition to misspellings, some respondents just used last names, some just first names, etc) so we had to take several steps to address this.  First, we restricted attention to politicians whose exact name was used at least 3 times for at least one of the recall questions (these are the politicians listed in \ref{fig:fig1}). Then, to determine whether other respondents were attempting to refer to these politicians, we checked whether the respondent referred to the same last name (for unique last names), common misspellings of the last or first names (oboma, reed, hilary), and common stems for very difficult to spell names (boe or boh for boehner, mccon for mcconnell).  There were two non-unique last names, Bush and Clinton.  For the two Bushes: we coded any responses with 2nd, 3rd 4th or 5th word starting with s (for senior), or 2nd-3rd-4th starting with H (for middle initials H.W.) as 'george bush' and code all other responses as 'george w bush'. We coded responses of just 'clinton' as 'bill clinton'.  Regarding positions, we coded each politician as 'executive', 'legislative' or 'governor'.  We included all party nominees (president or vice president) as executive.  Failed candidates for party nomination are included in other categories.
+
+Table ~\ref{si_survey_dem} provides a synopsis.
+
+\begin{table}[ht]
+\small
+\caption{Sample Demographics Compared to Benchmarks}
+\centering
+\label{si_survey_dem}
+\begin{tabular}{l c c c}
+\hline
+& Sample & 2012 ANES & 2010 Census\\
+\hline
+& & &\\
+\textbf{Age} & & &\\
+18-29 & 23.2\% & & 19.2\%\\
+30-49 & 41.9\% & & 31.7\%\\
+50+ & 35.0\% & & 49.2\%\\
+& & &\\
+\textbf{Gender} & & &\\
+Male & 53.0\% & & 49.1\%\\
+Female & 47.0\% & & 50.9\%\\
+& & &\\
+\textbf{Race/Ethnicity} & & &\\
+White/Caucasian & 87.9\% & & 63.7\% \\
+Black/African-American & 4.7\% & & 12.2\%\\
+Asian/PI & 4.1\% & & 4.8\%\\
+Hispanic/Latino & n/a \% & & 16.4\%\\
+Native American & 1.0\% & & 1.1\%\\
+Other/more than one & 2.2\% & & 6.2\%\\
+& & &\\
+\textbf{Education} & & &\\
+Less than HS degree & 0.0\% & & 8.9\%\\
+High school/GED & 11.1\% & & 31.0\%\\
+Some college/2-year degree & 36.5\% & &28.0\%\\
+4-year college degree & 41.7\% & & 18.0\%\\
+Graduate/professional degree & 10.7\% & & 9.3\%\\
+& & &\\
+\textbf{Party Identification} & & &\\
+Democratic (inc. leaners) & 56.9\% & 49.0\% &\\
+Republican (inc. leaners) & 31.0\% & 39.0\% &\\
+No party preference/Other & 12.2\% & 11.9\% &\\
+\hline
+\end{tabular}
+\caption*{Note: Sample statistics are for sample used for analysis, with N=1,725 and unit of observation of (identified) recalled politician-respondent (respondents who recalled more identified politician are used more often).  White/Caucasion category is non-Hispanic for 2010 Census (no separate Hispanic category in race variable for survey).}
+\end{table}
+\clearpage
+
+\subsection{Recall Results}
+\label{si_recall}
+\input{../tabs/recall.tex}
+
+\clearpage
+
+\section{Details About Searching Names}
+\label{si1}
+\begin{table}[ht]
+  	\caption{Prefixes}
+  	\centering
+  	\begin{tabular}{l l}
+  	\hline
+    Position &  Prefixes\\
+  	\hline
+      President			& Mr, President\\
+      Governor			& Governor, Mr, Ms\\
+      \multirow{2}{*}{Senator}	& Senator(s), Speaker,
+      Representative(s), Republican leader\\
+      & Democratic leader, Majority leader, Minority leader, Mr, Ms\\
+      \multirow{3}{*}{Representative}& Speaker, Representative(s), Republican
+      leader\\
+     & Democratic leader, Majority leader, Minority leader, Mr, Ms\\
+     & Congressman, Congresswoman, Congressmen, Congresswomen\\
+     \hline
+  	\end{tabular}
+  	\label{table:taba1}
+\end{table}
+
+\clearpage
+
+\begin{table}[ht]
+  	\caption{Nicknames}
+  	\centering
+  	\begin{tabular}{l l l l}
+  	\hline
+    Proper Names &  Nick Names & Proper Names &  Nick Names\\
+  	\hline
+    Andrew		& Andy		& Jeffrey	& Jeff\\
+    Angela		& Angie 	& Jefferson & Jeff\\
+    Anthony		& Tony 		& Jonathan & Jon\\
+    Benjamin	& Ben 		& Joseph & Joe\\
+    Bernard 	& Bernie 	& Joshua & Josh\\
+    Bradley 	& Brad 		& Kathleen & Kathy\\
+    Carmichael 	& Mike 		& Kenneth & Kenny, Ken\\
+    Charles		& Chuck, Charlie &  Louis & Louie\\
+    Chester 	& Chet		&   Matthew, Mathew & Matt\\
+    Christopher & Chris 	& Martin & Marty\\
+    Clifford 	& Cliff 	& Michael & Mike\\
+    David 		& Dave 		& Patrick & Pat\\
+    Donald 		& Don 		& Patricia & Pat\\
+    Douglas 	& Doug 		& Peter & Pete\\
+    Dwight 		& Ike 		&  Philip & Phil\\
+    Edward 		& Ed 		& Richard & Dick, Rick\\
+    Elizabeth 	& Liz, Betsy &  Robert &Bob, Bobby, Rob\\
+    Ernest 		& Ernie 	&  Ronald & Ron\\
+    Eugene 		& Gene 		& Rudolph & Rudy\\
+    Frederick 	& Fred 		&  Stanley	& Stan\\
+    Gilbert 	& Gil 		& Steven, Stephen, Stevan &Steve\\
+    Gregory 	& Greg 		& Timothy & Tim\\
+    Gwendolyn 	& Gwen 		&  Thaddeus & Thad\\
+    James 		& Jim, Jamie &  Thomas	& Tom\\
+    Vernon & Vern & &\\
+    Walter & Walt & &\\
+    Wesley	& Wes & &\\
+    William & Bill, Billy & &\\
+     \hline
+  	\end{tabular}
+  	\label{table:taba2}
+\end{table}
+\clearpage
+
+\section{Cable Transcripts Data}
+
+\input{../tabs/append_cable_transcripts_data_summary.tex}
+\clearpage
+
+% Mean word fractions by party of the speaker and channel
+\input{../tabs/wc_summ.tex}
+\clearpage
+
+\begin{figure}[h]
+  \centering
+  \caption{Share of TV Appearances by the Level of Government}
+  \includegraphics[width=0.9\textwidth]{../figs/tv_guests/tv_guest_appearance_share_bylevel.pdf}
+  \label{fig:tv_guest_appearance_share_bylevel}
+\end{figure}
+
+\clearpage
+
+\section{Newsbank Database}
+\label{cc_transcript_data}
+Our news transcript database is homegrown and relies on multiple sources. It includes closed-caption transcripts of all national, cable and local (Los Angeles) news between 2006--2012 from the UCLA Television News Archive. From Newsbank, we have news transcripts of Fox News, CNNfn (CNN's now-defunct financial news network), CNN International, and MSNBC for shows between 2000 to 2012. And from the Internet Archive, transcripts from CNBC, CNN, Current TV, Fox News, and MSNBC between 2009 and 2012. And from CNN.com and MSNBC.com, transcripts covering 2000--2014 and 2010--2014 respectively. After deduplication, we have transcripts for 155,814 news shows along with information about when they were broadcast, and the length of the program covering more than 50 television channels, and 255 shows, e.g. NBC Nightly News, O'Reilly Factor, Countdown, CBS Evening News etc. We subset the data to shows with at least 100 transcripts each. (Table ~\ref{datatable} in ~\ref{si2} tallies the number of transcripts and date range for each news program we have in our data.)
+
+Our text data originates from several sources. Here we summarize the number of transcripts in our combined data by show, as well as the specific data source and date range for each.
+
+\scriptsize
+\input{../tabs/MediaDataAppend.tex}
+
+\subsection{Results from Newsbank Database}
+\label{cc_transcript_res}
+\normalsize
+We start by plotting proportion of citations going to 50 most cited politicians (Figure \ref{fig:fig1}). As the figure reveals, the distribution has an extreme right skew---a few politicians get a majority of the citations. President Obama alone receives nearly 10\% of all citations. The five most cited politicians get an 28.5\% of the total citations; for the top 10, 40\% of the citations; and for the top 50, 67\% of the total citations. As Figure~\ref{fig:fig1} also shows, politicians serving in executive offices, presidential candidates, and those serving in prominent legislative offices receive far more citations than ordinary legislators, be they state or national.
+
+\begin{figure}[h]
+  \centering
+  \caption{Top 50 Politicians Cited in News}
+  \includegraphics[width=0.9\textwidth]{../figs/search/news_top50.pdf}
+  \label{fig:top50_newsbank}
+\end{figure}
+
+Next, we plotted the ideology of the cited politicians alongside that of our sample of politicians (Figure \ref{fig:fig2}). There is a clear left skew in the citations, explained largely by the previous figure. In median politician in our sample of politicians is closer to the median Republican than Democrat. Whereas, the median politician cited in news has an ideology that is close to the median Democrat in our sample.
+
+\begin{figure}[h]
+  \centering
+  \caption{Distribution of Ideology in News Citations Compared to Distribution of Ideology in Base Sample}
+  \includegraphics[width=0.7\textwidth]{../figs/search/news_cfscore_boxplot.pdf}
+  \label{fig:cfscore_box_newsbank}
+\end{figure}
+
+To convey the point more clearly, we superimpose the density of the ideological distribution in the politician data we searched for over the density of ideological distribution of citations. As Figure ~\ref{fig:fig3} again suggests, we have a clear but slight left skew.
+
+\begin{figure}[h]
+  \centering
+  \caption{Ideology of Cited Politicians Compared to Large Pool of Politicians}
+  \includegraphics[width=0.9\textwidth]{../figs/search/news_cfscore_density.pdf}
+  \label{fig:cfscore_density_newsbank}
+\end{figure}
+
+To assess whether our results are driven by a particular show, next, we plot the average ideology of the politician covered along with average ideology of the Democratic and Republican politician cited by show. As Figure \ref{fig:fig4} shows, the averages are tighly clustered. And if at all there is a bias, it is towards covering more moderate politicians, especially less extreme Republicans.
+
+\begin{figure}[h]
+  \centering
+  \caption{Average Ideology of Cited Politicians By Show}
+  \includegraphics[width=0.8\textwidth]{../figs/search/news_cfscore_boxplot_by_show.pdf}
+  \label{fig:cfscore_box_show_newsbank}
+\end{figure}
+
+Next we plotted average ideology of the cited polician by party over time (see Figure \ref{fig:news_pol_year}). Over time, there is a modest tendency towards citing more extreme politicians. The slope is less sharper for Republicans than one in the Congress. For Democrats, it generally tracks the polarization in the Congress.
+
+\begin{figure}[h]
+  \centering
+  \caption{Average Ideology of Cited Politicians By Year}
+  \includegraphics[width=0.8\textwidth]{../figs/search/news_cfscore_over_time.pdf}
+  \label{fig:year_newsbank}
+\end{figure}
+\clearpage
+
+\section{Lydia Database}
+\label{si_lydia_sum}
+The Lydia data were originally collected as part of an effort to track political coverage during the election for Annenberg School of Communication at University of Pennsylvania. The data form the basis of content analysis in \citet{kenski2010obama} and \citet{van2013only}.  In all the data cover roughly 46M articles covering 3000 foreign and domestic news sources between 2004 and 2009. In each of the years, there are at least 5 million transcripts. We eliminate sources with fewer than 1000 transcripts. \ref{tab:lydiasum} carries details about the sources and number of the transcripts per source. The team behind Lydia used Named Entity Recognition, as described in \citet{bautin2009news}, to extract   politicians and other figures that were covered by the news media. The final dataset that we capitalize on has data on the `entities'---proper nouns with some surrounding text.
+
+\input{../tabs/lydia_summary.tex}
+
+\clearpage
+
+\subsection{Results from Lydia Database}
+
+\label{si_lydia_res}
+\ref{fig:lydiafig1} plots the distribution of the citations in Lydia. Gives you the boxplot \ref{fig:lydiafig2} and density plot \ref{fig:lydiafig3}.
+
+ \begin{figure}[h]
+   \centering
+   \caption{Distribution of Citations to Politicians}
+   \includegraphics[width=0.9\textwidth]{../figs/lydia/lydia_top50.pdf}
+   \label{fig:top50_lydia}
+ \end{figure}
+
+ \begin{figure}[h]
+   \centering
+   \caption{Distribution of Ideology in News Citations Compared to Distribution of Ideology in Base Sample}
+   \includegraphics[width=0.7\textwidth]{../figs/lydia/lydia_cfscore_boxplot.pdf}
+   \label{fig:cfscore_box_lydia}
+ \end{figure}
+
+ \begin{figure}[h]
+   \centering
+   \caption{Ideology of Cited Politicians Compared to Large Pool of Politicians}
+   \includegraphics[width=0.9\textwidth]{../figs/lydia/lydia_cfscore_density.pdf}
+   \label{fig:cfscore_density_lydia}
+ \end{figure}
+\clearpage
+\end{document}
