@@ -4,6 +4,7 @@ lit/
 # python
 */.ipynb_checkpoints/*
 *.pyc
+*__pycache__
 
 # mac
 .DS_Store
